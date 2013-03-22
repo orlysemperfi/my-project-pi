@@ -88,7 +88,7 @@
 			roles      	(list role_list
 			    (object Role "$UNNAMED$1"
 				quid       	"514BC09A004E"
-				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_planificacion_operaciones_campo"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Planificacion_operacion_campo"
 				quidu      	"514BBE8401AC"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$2"
@@ -100,7 +100,7 @@
 			roles      	(list role_list
 			    (object Role "$UNNAMED$4"
 				quid       	"514BC0AD002E"
-				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Pocesamiento_datos"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Procesamiento_datos"
 				quidu      	"514BBDB9016A"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$5"
@@ -112,7 +112,7 @@
 			roles      	(list role_list
 			    (object Role "$UNNAMED$7"
 				quid       	"514BC30F01C6"
-				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Reaizar_Monitoreo_operacion_campo"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Monitoreo_operacion_campo"
 				quidu      	"514BBDCD02E1"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$8"
@@ -134,13 +134,13 @@
 			quid       	"514B59FC02B1"
 			exportControl 	"Public"
 			logical_models 	(list unit_reference_list
-			    (object UseCase "CUN_Realizar_Pocesamiento_datos"
+			    (object UseCase "CUN_Realizar_Procesamiento_datos"
 				quid       	"514BBDB9016A"
 				stereotype 	"Business Use Case")
-			    (object UseCase "CUN_Reaizar_Monitoreo_operacion_campo"
+			    (object UseCase "CUN_Realizar_Monitoreo_operacion_campo"
 				quid       	"514BBDCD02E1"
 				stereotype 	"Business Use Case")
-			    (object UseCase "CUN_Realizar_planificacion_operaciones_campo"
+			    (object UseCase "CUN_Realizar_Planificacion_operacion_campo"
 				quid       	"514BBE8401AC"
 				stereotype 	"Business Use Case"))
 			logical_presentations 	(list unit_reference_list)))
@@ -154,8 +154,8 @@
 			origin_x   	0
 			origin_y   	0
 			items      	(list diagram_item_list
-			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_planificacion_operaciones_campo" @1
-				location   	(1309, 381)
+			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Procesamiento_datos" @1
+				location   	(1281, 819)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -167,17 +167,17 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@1
-				    location   	(1308, 556)
+				    location   	(1280, 994)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	879
 				    justify    	0
-				    label      	"CUN_Realizar_planificacion_operaciones_campo")
+				    label      	"CUN_Realizar_Procesamiento_datos")
 				icon       	"Business Use Case"
 				icon_style 	"Icon"
 				line_color 	3342489
 				fill_color 	13434879
-				quidu      	"514BBE8401AC")
+				quidu      	"514BBDB9016A")
 			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Actores del negocio::AN_Director_OTIN" @2
 				ShowCompartmentStereotypes 	TRUE
 				SuppressAttribute 	TRUE
@@ -210,31 +210,7 @@
 				width      	202
 				annotation 	8
 				autoResize 	TRUE)
-			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Pocesamiento_datos" @3
-				location   	(1281, 819)
-				font       	(object Font
-				    size       	10
-				    face       	"Arial"
-				    bold       	FALSE
-				    italics    	FALSE
-				    underline  	FALSE
-				    strike     	FALSE
-				    color      	0
-				    default_color 	TRUE)
-				label      	(object ItemLabel
-				    Parent_View 	@3
-				    location   	(1280, 994)
-				    anchor_loc 	1
-				    nlines     	2
-				    max_width  	879
-				    justify    	0
-				    label      	"CUN_Realizar_Pocesamiento_datos")
-				icon       	"Business Use Case"
-				icon_style 	"Icon"
-				line_color 	3342489
-				fill_color 	13434879
-				quidu      	"514BBDB9016A")
-			    (object AssociationViewNew "$UNNAMED$3" @4
+			    (object AssociationViewNew "$UNNAMED$3" @3
 				location   	(1896, 563)
 				font       	(object Font
 				    size       	10
@@ -249,31 +225,79 @@
 				line_color 	3342489
 				quidu      	"514BC0AB005F"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$4" @5
-					Parent_View 	@4
+				    (object RoleView "$UNNAMED$4" @4
+					Parent_View 	@3
 					location   	(-507, 302)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"514BC0AD002E"
-					client     	@4
-					supplier   	@3
+					client     	@3
+					supplier   	@1
 					vertices   	(list Points
 					    (1896, 563)
-					    (1431, 754))
+					    (1431, 753))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$5" @6
-					Parent_View 	@4
+				    (object RoleView "$UNNAMED$5" @5
+					Parent_View 	@3
 					location   	(-507, 302)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"514BC0AD0030"
-					client     	@4
+					client     	@3
 					supplier   	@2
 					vertices   	(list Points
 					    (1896, 563)
-					    (2362, 373))
+					    (2363, 374))
 					line_style 	0)))
-			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Actores del negocio::AN_Director_DNCE" @7
+			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Planificacion_operacion_campo" @6
+				location   	(1309, 381)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@6
+				    location   	(1308, 556)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	879
+				    justify    	0
+				    label      	"CUN_Realizar_Planificacion_operacion_campo")
+				icon       	"Business Use Case"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"514BBE8401AC")
+			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Realizar_Monitoreo_operacion_campo" @7
+				location   	(1262, 1253)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@7
+				    location   	(1261, 1428)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	879
+				    justify    	0
+				    label      	"CUN_Realizar_Monitoreo_operacion_campo")
+				icon       	"Business Use Case"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"514BBDCD02E1")
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Actores del negocio::AN_Director_DNCE" @8
 				ShowCompartmentStereotypes 	TRUE
 				SuppressAttribute 	TRUE
 				SuppressOperation 	TRUE
@@ -290,7 +314,7 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@7
+				    Parent_View 	@8
 				    location   	(344, 591)
 				    anchor_loc 	1
 				    nlines     	2
@@ -305,7 +329,7 @@
 				width      	202
 				annotation 	8
 				autoResize 	TRUE)
-			    (object AssociationViewNew "$UNNAMED$0" @8
+			    (object AssociationViewNew "$UNNAMED$0" @9
 				location   	(800, 380)
 				font       	(object Font
 				    size       	10
@@ -320,54 +344,30 @@
 				line_color 	3342489
 				quidu      	"514BC099002B"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$1" @9
-					Parent_View 	@8
+				    (object RoleView "$UNNAMED$1" @10
+					Parent_View 	@9
 					location   	(437, 30)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"514BC09A004E"
-					client     	@8
-					supplier   	@1
+					client     	@9
+					supplier   	@6
 					vertices   	(list Points
 					    (800, 380)
-					    (1157, 381))
+					    (1155, 379))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$2" @10
-					Parent_View 	@8
+				    (object RoleView "$UNNAMED$2" @11
+					Parent_View 	@9
 					location   	(437, 30)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"514BC09A0050"
-					client     	@8
-					supplier   	@7
+					client     	@9
+					supplier   	@8
 					vertices   	(list Points
 					    (800, 380)
-					    (443, 380))
+					    (443, 379))
 					line_style 	0)))
-			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN_Reaizar_Monitoreo_operacion_campo" @11
-				location   	(1262, 1253)
-				font       	(object Font
-				    size       	10
-				    face       	"Arial"
-				    bold       	FALSE
-				    italics    	FALSE
-				    underline  	FALSE
-				    strike     	FALSE
-				    color      	0
-				    default_color 	TRUE)
-				label      	(object ItemLabel
-				    Parent_View 	@11
-				    location   	(1261, 1428)
-				    anchor_loc 	1
-				    nlines     	2
-				    max_width  	879
-				    justify    	0
-				    label      	"CUN_Reaizar_Monitoreo_operacion_campo")
-				icon       	"Business Use Case"
-				icon_style 	"Icon"
-				line_color 	3342489
-				fill_color 	13434879
-				quidu      	"514BBDCD02E1")
 			    (object AssociationViewNew "$UNNAMED$6" @12
 				location   	(803, 978)
 				font       	(object Font
@@ -390,7 +390,7 @@
 					line_color 	3342489
 					quidu      	"514BC30F01C6"
 					client     	@12
-					supplier   	@11
+					supplier   	@7
 					vertices   	(list Points
 					    (803, 978)
 					    (997, 1231)
@@ -403,10 +403,10 @@
 					line_color 	3342489
 					quidu      	"514BC30F01C8"
 					client     	@12
-					supplier   	@7
+					supplier   	@8
 					vertices   	(list Points
 					    (803, 978)
-					    (539, 636))
+					    (441, 509))
 					line_style 	0))))))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
@@ -615,7 +615,7 @@
 		    (object Attribute
 			tool       	"Java"
 			name       	"ClassPath"
-			value      	"")
+			value      	";C:\\Program Files\\Java\\jdk1.6.0_26\\jre\\lib\\rt.jar;C:\\Program Files\\Java\\jdk1.6.0_26\\lib\\dt.jar;C:\\Program Files\\Java\\jdk1.6.0_26\\lib\\tools.jar;C:\\Program Files\\Java\\jdk1.7.0\\jre\\lib\\rt.jar;C:\\Program Files\\Java\\jdk1.7.0\\lib\\dt.jar;C:\\Program Files\\Java\\jdk1.7.0\\lib\\tools.jar;C:\\Program Files\\Java\\jdk1.7.0_09\\jre\\lib\\rt.jar;C:\\Program Files\\Java\\jdk1.7.0_09\\lib\\dt.jar;C:\\Program Files\\Java\\jdk1.7.0_09\\lib\\tools.jar")
 		    (object Attribute
 			tool       	"Java"
 			name       	"ReferenceClasspath"
