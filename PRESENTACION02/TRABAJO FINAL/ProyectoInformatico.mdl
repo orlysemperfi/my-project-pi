@@ -247,7 +247,7 @@
 					supplier   	@2
 					vertices   	(list Points
 					    (1911, 638)
-					    (2391, 503))
+					    (2391, 504))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo" @6
 				location   	(1309, 381)
@@ -354,7 +354,7 @@
 					supplier   	@6
 					vertices   	(list Points
 					    (800, 380)
-					    (1157, 381))
+					    (1155, 379))
 					line_style 	0)
 				    (object RoleView "$UNNAMED$2" @11
 					Parent_View 	@9
@@ -366,7 +366,7 @@
 					supplier   	@8
 					vertices   	(list Points
 					    (800, 380)
-					    (443, 380))
+					    (443, 379))
 					line_style 	0)))
 			    (object AssociationViewNew "$UNNAMED$6" @12
 				location   	(802, 978)
@@ -406,7 +406,7 @@
 					supplier   	@8
 					vertices   	(list Points
 					    (802, 978)
-					    (539, 636))
+					    (440, 509))
 					line_style 	0)))
 			    (object NoteView @15
 				location   	(1975, 178)
@@ -430,7 +430,16 @@
 				line_color 	3342489
 				fill_color 	13434879
 				width      	456
-				height     	169))))))
+				height     	169)))
+		    (object UseCaseDiagram "Diagrama de realizacion de Casos de uso del negocio"
+			quid       	"51548EF900D9"
+			title      	"Diagrama de realizacion de Casos de uso del negocio"
+			zoom       	100
+			max_height 	28350
+			max_width  	21600
+			origin_x   	0
+			origin_y   	0
+			items      	(list diagram_item_list)))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
 		quid       	"514B59DE01F9"
@@ -447,7 +456,31 @@
 	global     	TRUE
 	subsystem  	"Component View"
 	quidu      	"514B59DE00D2"
-	logical_models 	(list unit_reference_list)
+	logical_models 	(list unit_reference_list
+	    (object UseCase "RCUN001_Realizar_Planificación_operación_campo"
+		quid       	"51548F8A0242"
+		stereotype 	"use-case realization"
+		realized_interfaces 	(list realize_rel_list
+		    (object Realize_Relationship
+			quid       	"5154919C002F"
+			supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo"
+			quidu      	"514BBE8401AC")))
+	    (object UseCase "RCUN002_Realizar_Procesamiento_datos"
+		quid       	"515490340159"
+		stereotype 	"use-case realization"
+		realized_interfaces 	(list realize_rel_list
+		    (object Realize_Relationship
+			quid       	"515491A40348"
+			supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos"
+			quidu      	"514BBDB9016A")))
+	    (object UseCase "RCUN003_Realizar_Monitoreo_operación_campo"
+		quid       	"515490820029"
+		stereotype 	"use-case realization"
+		realized_interfaces 	(list realize_rel_list
+		    (object Realize_Relationship
+			quid       	"515491AD0238"
+			supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo"
+			quidu      	"514BBDCD02E1"))))
 	logical_presentations 	(list unit_reference_list
 	    (object ClassDiagram "Main"
 		quid       	"514B59DE01FA"
@@ -457,7 +490,181 @@
 		max_width  	21600
 		origin_x   	0
 		origin_y   	0
-		items      	(list diagram_item_list))))
+		items      	(list diagram_item_list
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo" @16
+			location   	(525, 478)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@16
+			    location   	(524, 653)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	879
+			    justify    	0
+			    label      	"CUN001_Realizar_Planificacion_operacion_campo")
+			icon       	"Business Use Case"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"514BBE8401AC")
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos" @17
+			location   	(497, 997)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@17
+			    location   	(496, 1172)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	879
+			    justify    	0
+			    label      	"CUN002_Realizar_Procesamiento_datos")
+			icon       	"Business Use Case"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"514BBDB9016A")
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo" @18
+			location   	(522, 1475)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@18
+			    location   	(521, 1650)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	879
+			    justify    	0
+			    label      	"CUN003_Realizar_Monitoreo_operacion_campo")
+			icon       	"Business Use Case"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"514BBDCD02E1")
+		    (object UseCaseView "Logical View::RCUN001_Realizar_Planificación_operación_campo" @19
+			location   	(1652, 471)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@19
+			    location   	(1652, 612)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	648
+			    justify    	0
+			    label      	"RCUN001_Realizar_Planificación_operación_campo")
+			icon       	"use-case realization"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	16777088
+			quidu      	"51548F8A0242")
+		    (object UseCaseView "Logical View::RCUN002_Realizar_Procesamiento_datos" @20
+			location   	(1668, 1003)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@20
+			    location   	(1668, 1144)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	648
+			    justify    	0
+			    label      	"RCUN002_Realizar_Procesamiento_datos")
+			icon       	"use-case realization"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	16777088
+			quidu      	"515490340159")
+		    (object UseCaseView "Logical View::RCUN003_Realizar_Monitoreo_operación_campo" @21
+			location   	(1645, 1500)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@21
+			    location   	(1645, 1641)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	648
+			    justify    	0
+			    label      	"RCUN003_Realizar_Monitoreo_operación_campo")
+			icon       	"use-case realization"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	16777088
+			quidu      	"515490820029")
+		    (object RealizeView "" @22
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"5154919C002F"
+			client     	@19
+			supplier   	@16
+			vertices   	(list Points
+			    (1537, 471)
+			    (675, 474))
+			line_style 	0)
+		    (object RealizeView "" @23
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"515491A40348"
+			client     	@20
+			supplier   	@17
+			vertices   	(list Points
+			    (1555, 999)
+			    (647, 997))
+			line_style 	0)
+		    (object RealizeView "" @24
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"515491AD0238"
+			client     	@21
+			supplier   	@18
+			vertices   	(list Points
+			    (1530, 1494)
+			    (672, 1477))
+			line_style 	0)))))
     root_subsystem 	(object SubSystem "Component View"
 	quid       	"514B59DE00D2"
 	physical_models 	(list unit_reference_list)
