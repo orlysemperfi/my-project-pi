@@ -971,6 +971,138 @@
 				quid       	"515784710124"
 				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN004_Encuestador"
 				quidu      	"51565A5D030F")))
+		    (object Association "$UNNAMED$222"
+			quid       	"5158863102C8"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$223"
+				quid       	"5158863203E7"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN018_Ruta_trabajo"
+				quidu      	"51574C7A033F"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$224"
+				quid       	"515886330012"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0")))
+		    (object Association "$UNNAMED$225"
+			quid       	"5158863801E1"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$226"
+				quid       	"515886390258"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN019_Carga_trabajo"
+				quidu      	"51574C8B03E0"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$227"
+				quid       	"51588639027E"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0")))
+		    (object Association "$UNNAMED$228"
+			quid       	"5158863C01FC"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$229"
+				quid       	"5158863D0107"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN029_Avance_encuesta"
+				quidu      	"515874BA03D8"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$230"
+				quid       	"5158863D010C"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0")))
+		    (object Association "$UNNAMED$231"
+			quid       	"515886430279"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$232"
+				quid       	"5158864401B7"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN031_Indicador_encuesta"
+				quidu      	"515884FD019E"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$233"
+				quid       	"5158864401BD"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0")))
+		    (object Association "$UNNAMED$234"
+			quid       	"5158868802CB"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$235"
+				quid       	"515886890239"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN030_Indicador_encuestador"
+				quidu      	"515884E7029C"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$236"
+				quid       	"51588689023F"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura"
+				quidu      	"51565A3100F3")))
+		    (object Association "$UNNAMED$237"
+			quid       	"515886AC01FB"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$238"
+				quid       	"515886AD00D9"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$239"
+				quid       	"515886AD00DE"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN029_Avance_encuesta"
+				quidu      	"515874BA03D8")))
+		    (object Association "$UNNAMED$240"
+			quid       	"515886B000F3"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$241"
+				quid       	"515886B003A1"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$242"
+				quid       	"515886B003A6"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN031_Indicador_encuesta"
+				quidu      	"515884FD019E")))
+		    (object Association "$UNNAMED$243"
+			quid       	"515886B40163"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$244"
+				quid       	"515886B403D4"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$245"
+				quid       	"515886B403DA"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN018_Ruta_trabajo"
+				quidu      	"51574C7A033F")))
+		    (object Association "$UNNAMED$246"
+			quid       	"515886B703E2"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$247"
+				quid       	"515886B8035C"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
+				quidu      	"51565AD603B0"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$248"
+				quid       	"515886B80362"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN019_Carga_trabajo"
+				quidu      	"51574C8B03E0")))
+		    (object Association "$UNNAMED$249"
+			quid       	"515886C70318"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$250"
+				quid       	"515886CB0208"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN019_Carga_trabajo"
+				quidu      	"51574C8B03E0"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$251"
+				quid       	"515886CB021A"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura"
+				quidu      	"51565A3100F3")))
+		    (object Association "$UNNAMED$252"
+			quid       	"515886DF02DD"
+			roles      	(list role_list
+			    (object Role "$UNNAMED$253"
+				quid       	"515886EC0101"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN018_Ruta_trabajo"
+				quidu      	"51574C7A033F"
+				is_navigable 	TRUE)
+			    (object Role "$UNNAMED$254"
+				quid       	"515886EC0113"
+				supplier   	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura"
+				quidu      	"51565A3100F3")))
 		    (object Class_Category "Actores del negocio"
 			quid       	"514B59F402B1"
 			exportControl 	"Public"
@@ -992,7 +1124,7 @@
 				statemachine 	(object State_Machine "State/Activity Model2"
 				    quid       	"51575ABD0052"
 				    states     	(list States
-					(object State "$UNNAMED$222"
+					(object State "$UNNAMED$255"
 					    quid       	"51575CEA01BC"
 					    type       	"StartState")
 					(object ActivityState "Solicitar levantamiento datos"
@@ -1029,7 +1161,7 @@
 					    quid       	"5157669B0048")
 					(object ActivityState "NewActivity"
 					    quid       	"515766CE017F")
-					(object State "$UNNAMED$223"
+					(object State "$UNNAMED$256"
 					    quid       	"51576824017F"
 					    type       	"EndState")
 					(object ActivityState "Presentar difusión resultados"
@@ -1039,35 +1171,35 @@
 					(object ActivityState "Transferir datos captados"
 					    quid       	"51576A6300F3"))
 				    partitions 	(list Partitions
-					(object Partition "$UNNAMED$224"
+					(object Partition "$UNNAMED$257"
 					    quid       	"51575AFB00BC"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Actores del negocio::AN002_Director_OTIN"
 					    quidu      	"514BBCF10247"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$225"
+					(object Partition "$UNNAMED$258"
 					    quid       	"51575BBB01FE"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN004_Encuestador"
 					    quidu      	"51565A5D030F"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$226"
+					(object Partition "$UNNAMED$259"
 					    quid       	"51575C930395"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura"
 					    quidu      	"51565A3100F3"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$227"
+					(object Partition "$UNNAMED$260"
 					    quid       	"51575CB00283"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN007_Analista_Consistencia"
 					    quidu      	"51565AF300A8"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$228"
+					(object Partition "$UNNAMED$261"
 					    quid       	"515764C702DD"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN008_Estadista"
 					    quidu      	"51566CBA0214"
@@ -1075,7 +1207,7 @@
 					    creationObj 	FALSE
 					    multi      	FALSE))
 				    objects    	(list Objects
-					(object Object "$UNNAMED$229"
+					(object Object "$UNNAMED$262"
 					    quid       	"5157713C0253"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN022_Lote_captado"
 					    quidu      	"515770E3016F"
@@ -1143,7 +1275,7 @@
 					    quid       	"51575D85023B"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos::State/Activity Model2::Solicitar levantamiento datos"
 					    supplier_quidu 	"51575D2E0021"
-					    client     	"$UNNAMED$222"
+					    client     	"$UNNAMED$255"
 					    client_quidu 	"51575CEA01BC"
 					    sendEvent  	(object sendEvent
 						quid       	"51575D85023E"))
@@ -1335,7 +1467,7 @@
 						quid       	"5157681D01C6"))
 					(object State_Transition
 					    quid       	"51576828011F"
-					    supplier   	"$UNNAMED$223"
+					    supplier   	"$UNNAMED$256"
 					    supplier_quidu 	"51576824017F"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos::State/Activity Model2::Recepcionar resultado datos procesados"
 					    client_quidu 	"515765DD018F"
@@ -1351,7 +1483,7 @@
 						quid       	"515768BB024C"))
 					(object State_Transition
 					    quid       	"515768C0000A"
-					    supplier   	"$UNNAMED$223"
+					    supplier   	"$UNNAMED$256"
 					    supplier_quidu 	"51576824017F"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos::State/Activity Model2::Presentar difusión resultados"
 					    client_quidu 	"5157689F014B"
@@ -1398,7 +1530,7 @@
 				    objectflows 	(list objectflow_list
 					(object Object_Flow
 					    quid       	"5157715502AE"
-					    supplier   	"$UNNAMED$229"
+					    supplier   	"$UNNAMED$262"
 					    supplier_quidu 	"5157713C0253"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos::State/Activity Model2::Transferir datos captados"
 					    client_quidu 	"51576A6300F3")
@@ -1406,7 +1538,7 @@
 					    quid       	"5157715E00AC"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos::State/Activity Model2::Realizar Control de levantamiento"
 					    supplier_quidu 	"51575E2A00AA"
-					    client     	"$UNNAMED$229"
+					    client     	"$UNNAMED$262"
 					    client_quidu 	"5157713C0253")
 					(object Object_Flow
 					    quid       	"515773C8024E"
@@ -1490,11 +1622,11 @@
 					    origin_x   	1500
 					    origin_y   	743
 					    items      	(list diagram_item_list
-						(object Swimlane "$UNNAMED$224" @1
+						(object Swimlane "$UNNAMED$257" @1
 						    line_color 	3342489
 						    quidu      	"51575AFB00BC"
 						    width      	784)
-						(object StateView "StartState" "$UNNAMED$222" @2
+						(object StateView "StartState" "$UNNAMED$255" @2
 						    Parent_View 	@1
 						    location   	(353, 108)
 						    icon_style 	"Icon"
@@ -1570,7 +1702,7 @@
 						    height     	154
 						    annotation 	1
 						    autoResize 	TRUE)
-						(object StateView "EndState" "$UNNAMED$223" @6
+						(object StateView "EndState" "$UNNAMED$256" @6
 						    Parent_View 	@1
 						    location   	(413, 2761)
 						    icon_style 	"Icon"
@@ -1628,7 +1760,7 @@
 							(412, 2719))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$225" @10
+						(object Swimlane "$UNNAMED$258" @10
 						    location   	(784, 0)
 						    line_color 	3342489
 						    quidu      	"51575BBB01FE"
@@ -1832,7 +1964,7 @@
 							(988, 371))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$226" @21
+						(object Swimlane "$UNNAMED$259" @21
 						    location   	(2052, 0)
 						    line_color 	3342489
 						    quidu      	"51575C930395"
@@ -2273,7 +2405,7 @@
 							(2244, 1404))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$227" @44
+						(object Swimlane "$UNNAMED$260" @44
 						    location   	(3488, 0)
 						    line_color 	3342489
 						    quidu      	"51575CB00283"
@@ -2399,7 +2531,7 @@
 							(2712, 2103))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$228" @51
+						(object Swimlane "$UNNAMED$261" @51
 						    location   	(4406, 0)
 						    line_color 	3342489
 						    quidu      	"515764C702DD"
@@ -2484,7 +2616,7 @@
 							(4640, 1774))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ObjectView "$UNNAMED$229" @56
+						(object ObjectView "$UNNAMED$262" @56
 						    Parent_View 	@10
 						    location   	(1158, 1014)
 						    font       	(object Font
@@ -2501,7 +2633,7 @@
 							location   	(1158, 1188)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	937
+							max_width  	943
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -2551,7 +2683,7 @@
 							location   	(1707, 288)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	899
+							max_width  	905
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2581,7 +2713,7 @@
 							location   	(1674, 648)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	899
+							max_width  	905
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2611,7 +2743,7 @@
 							location   	(3051, 1722)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	876
+							max_width  	882
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2661,7 +2793,7 @@
 							location   	(2962, 2637)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	892
+							max_width  	899
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2712,7 +2844,7 @@
 							location   	(3998, 1071)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	879
+							max_width  	885
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2752,7 +2884,7 @@
 							location   	(3894, 2560)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	889
+							max_width  	895
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2932,7 +3064,7 @@
 							location   	(4813, 1564)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	882
+							max_width  	889
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -2972,7 +3104,7 @@
 							location   	(4821, 2571)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	885
+							max_width  	892
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3035,16 +3167,16 @@
 				statemachine 	(object State_Machine "State/Activity Model3"
 				    quid       	"515784C10095"
 				    states     	(list States
-					(object State "$UNNAMED$230"
+					(object State "$UNNAMED$263"
 					    quid       	"515785E90053"
 					    type       	"StartState")
 					(object ActivityState "Solicitar Monitoreo de actividades"
 					    quid       	"5157889B03A3")
 					(object ActivityState "Consultar avance encuesta"
 					    quid       	"51585E1F0278")
-					(object SynchronizationState "$UNNAMED$231"
+					(object SynchronizationState "$UNNAMED$264"
 					    quid       	"5158770C0027")
-					(object SynchronizationState "$UNNAMED$232"
+					(object SynchronizationState "$UNNAMED$265"
 					    quid       	"5158770F0326")
 					(object ActivityState "Consultar avance ruta trabajo"
 					    quid       	"51587716014C")
@@ -3062,9 +3194,9 @@
 					    quid       	"51587EB301D6")
 					(object ActivityState "Reasignar ruta trabajo"
 					    quid       	"51587FDA0202")
-					(object SynchronizationState "$UNNAMED$233"
+					(object SynchronizationState "$UNNAMED$266"
 					    quid       	"51587FFC0352")
-					(object SynchronizationState "$UNNAMED$234"
+					(object SynchronizationState "$UNNAMED$267"
 					    quid       	"515880080276")
 					(object ActivityState "Generar Indicador desempeño encuestador"
 					    quid       	"515880B802AC")
@@ -3074,32 +3206,32 @@
 					    quid       	"5158816E025F")
 					(object ActivityState "Recibir informe monitoreo"
 					    quid       	"5158821C01FB")
-					(object State "$UNNAMED$235"
+					(object State "$UNNAMED$268"
 					    quid       	"515882350035"
 					    type       	"EndState"))
 				    partitions 	(list Partitions
-					(object Partition "$UNNAMED$236"
+					(object Partition "$UNNAMED$269"
 					    quid       	"5157854101B1"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Actores del negocio::AN001_Director_DNCE"
 					    quidu      	"514BBCDC02C6"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$237"
+					(object Partition "$UNNAMED$270"
 					    quid       	"515785A40021"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN004_Encuestador"
 					    quidu      	"51565A5D030F"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$238"
+					(object Partition "$UNNAMED$271"
 					    quid       	"515785C503D8"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor"
 					    quidu      	"51565AD603B0"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$239"
+					(object Partition "$UNNAMED$272"
 					    quid       	"51587E88032C"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura"
 					    quidu      	"51565A3100F3"
@@ -3107,7 +3239,7 @@
 					    creationObj 	FALSE
 					    multi      	FALSE))
 				    objects    	(list Objects
-					(object Object "$UNNAMED$240"
+					(object Object "$UNNAMED$273"
 					    quid       	"515874E200DF"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN029_Avance_encuesta"
 					    quidu      	"515874BA03D8"
@@ -3154,7 +3286,7 @@
 					    quid       	"515873D9033E"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Solicitar Monitoreo de actividades"
 					    supplier_quidu 	"5157889B03A3"
-					    client     	"$UNNAMED$230"
+					    client     	"$UNNAMED$263"
 					    client_quidu 	"515785E90053"
 					    sendEvent  	(object sendEvent
 						quid       	"515873D90341"))
@@ -3168,7 +3300,7 @@
 						quid       	"515873DF01D3"))
 					(object State_Transition
 					    quid       	"5158778D0031"
-					    supplier   	"$UNNAMED$231"
+					    supplier   	"$UNNAMED$264"
 					    supplier_quidu 	"5158770C0027"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar avance encuesta"
 					    client_quidu 	"51585E1F0278"
@@ -3178,7 +3310,7 @@
 					    quid       	"515877970187"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar avance ruta trabajo"
 					    supplier_quidu 	"51587716014C"
-					    client     	"$UNNAMED$231"
+					    client     	"$UNNAMED$264"
 					    client_quidu 	"5158770C0027"
 					    sendEvent  	(object sendEvent
 						quid       	"51587797018A"))
@@ -3186,13 +3318,13 @@
 					    quid       	"5158779D0000"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar avance carga trabajo"
 					    supplier_quidu 	"515877250035"
-					    client     	"$UNNAMED$231"
+					    client     	"$UNNAMED$264"
 					    client_quidu 	"5158770C0027"
 					    sendEvent  	(object sendEvent
 						quid       	"5158779D0003"))
 					(object State_Transition
 					    quid       	"515877A600DB"
-					    supplier   	"$UNNAMED$232"
+					    supplier   	"$UNNAMED$265"
 					    supplier_quidu 	"5158770F0326"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar avance ruta trabajo"
 					    client_quidu 	"51587716014C"
@@ -3200,7 +3332,7 @@
 						quid       	"515877A600DE"))
 					(object State_Transition
 					    quid       	"515877AA0226"
-					    supplier   	"$UNNAMED$232"
+					    supplier   	"$UNNAMED$265"
 					    supplier_quidu 	"5158770F0326"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar avance carga trabajo"
 					    client_quidu 	"515877250035"
@@ -3210,7 +3342,7 @@
 					    quid       	"515879CC01F6"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar desempeño encuestador"
 					    supplier_quidu 	"515879BD02E3"
-					    client     	"$UNNAMED$232"
+					    client     	"$UNNAMED$265"
 					    client_quidu 	"5158770F0326"
 					    sendEvent  	(object sendEvent
 						quid       	"515879CC01F9"))
@@ -3259,7 +3391,7 @@
 						quid       	"51587F5B0268"))
 					(object State_Transition
 					    quid       	"515880170356"
-					    supplier   	"$UNNAMED$233"
+					    supplier   	"$UNNAMED$266"
 					    supplier_quidu 	"51587FFC0352"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Dar  baja a encuestador"
 					    client_quidu 	"51587C650235"
@@ -3269,7 +3401,7 @@
 					    quid       	"5158801C02A2"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Reasignar carga trabajo"
 					    supplier_quidu 	"51587C9D007F"
-					    client     	"$UNNAMED$233"
+					    client     	"$UNNAMED$266"
 					    client_quidu 	"51587FFC0352"
 					    sendEvent  	(object sendEvent
 						quid       	"5158801C02A5"))
@@ -3277,13 +3409,13 @@
 					    quid       	"515880300064"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Reasignar ruta trabajo"
 					    supplier_quidu 	"51587FDA0202"
-					    client     	"$UNNAMED$233"
+					    client     	"$UNNAMED$266"
 					    client_quidu 	"51587FFC0352"
 					    sendEvent  	(object sendEvent
 						quid       	"515880300067"))
 					(object State_Transition
 					    quid       	"5158803B01AB"
-					    supplier   	"$UNNAMED$234"
+					    supplier   	"$UNNAMED$267"
 					    supplier_quidu 	"515880080276"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Reasignar carga trabajo"
 					    client_quidu 	"51587C9D007F"
@@ -3291,7 +3423,7 @@
 						quid       	"5158803B01AE"))
 					(object State_Transition
 					    quid       	"515880410338"
-					    supplier   	"$UNNAMED$234"
+					    supplier   	"$UNNAMED$267"
 					    supplier_quidu 	"515880080276"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Reasignar ruta trabajo"
 					    client_quidu 	"51587FDA0202"
@@ -3301,7 +3433,7 @@
 					    quid       	"515881370069"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Generar Indicador desempeño encuestador"
 					    supplier_quidu 	"515880B802AC"
-					    client     	"$UNNAMED$234"
+					    client     	"$UNNAMED$267"
 					    client_quidu 	"515880080276"
 					    sendEvent  	(object sendEvent
 						quid       	"51588137006C"))
@@ -3331,7 +3463,7 @@
 						quid       	"5158822D034D"))
 					(object State_Transition
 					    quid       	"51588239004B"
-					    supplier   	"$UNNAMED$235"
+					    supplier   	"$UNNAMED$268"
 					    supplier_quidu 	"515882350035"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Recibir informe monitoreo"
 					    client_quidu 	"5158821C01FB"
@@ -3342,7 +3474,7 @@
 					    quid       	"515874FF01E2"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo::State/Activity Model3::Consultar avance encuesta"
 					    supplier_quidu 	"51585E1F0278"
-					    client     	"$UNNAMED$240"
+					    client     	"$UNNAMED$273"
 					    client_quidu 	"515874E200DF")
 					(object Object_Flow
 					    quid       	"5158799C01CA"
@@ -3405,14 +3537,14 @@
 					    zoom       	100
 					    max_height 	28350
 					    max_width  	21600
-					    origin_x   	0
-					    origin_y   	1826
+					    origin_x   	1031
+					    origin_y   	0
 					    items      	(list diagram_item_list
-						(object Swimlane "$UNNAMED$236" @87
+						(object Swimlane "$UNNAMED$269" @87
 						    line_color 	3342489
 						    quidu      	"5157854101B1"
 						    width      	578)
-						(object StateView "StartState" "$UNNAMED$230" @88
+						(object StateView "StartState" "$UNNAMED$263" @88
 						    Parent_View 	@87
 						    location   	(289, 95)
 						    icon_style 	"Icon"
@@ -3487,7 +3619,7 @@
 						    height     	106
 						    annotation 	1
 						    autoResize 	TRUE)
-						(object StateView "EndState" "$UNNAMED$235" @92
+						(object StateView "EndState" "$UNNAMED$268" @92
 						    Parent_View 	@87
 						    location   	(266, 2452)
 						    icon_style 	"Icon"
@@ -3505,7 +3637,7 @@
 							(265, 2410))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$238" @94
+						(object Swimlane "$UNNAMED$271" @94
 						    location   	(578, 0)
 						    line_color 	3342489
 						    quidu      	"515785C503D8"
@@ -3804,7 +3936,7 @@
 							(436, 2301))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$239" @109
+						(object Swimlane "$UNNAMED$272" @109
 						    location   	(2492, 0)
 						    line_color 	3342489
 						    quidu      	"51587E88032C"
@@ -3944,7 +4076,7 @@
 							(1873, 2094))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ObjectView "$UNNAMED$240" @116
+						(object ObjectView "$UNNAMED$273" @116
 						    Parent_View 	@94
 						    location   	(2087, 322)
 						    font       	(object Font
@@ -3961,7 +4093,7 @@
 							location   	(2087, 496)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	943
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -4001,7 +4133,7 @@
 							location   	(857, 1152)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	927
+							max_width  	934
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -4053,7 +4185,7 @@
 							location   	(1737, 1130)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	931
+							max_width  	937
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -4105,7 +4237,7 @@
 							location   	(1662, 2746)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	927
+							max_width  	934
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -4135,7 +4267,7 @@
 							location   	(2898, 1271)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	934
+							max_width  	940
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -4175,7 +4307,7 @@
 							location   	(2915, 2583)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -4202,7 +4334,7 @@
 						    location   	(3484, 0)
 						    line_color 	3342489
 						    width      	450)
-						(object SynchronizationView "$UNNAMED$231" @130
+						(object SynchronizationView "$UNNAMED$264" @130
 						    location   	(1251, 566)
 						    font       	(object Font
 							size       	10
@@ -4272,7 +4404,7 @@
 							(1445, 701))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object SynchronizationView "$UNNAMED$232" @135
+						(object SynchronizationView "$UNNAMED$265" @135
 						    location   	(1261, 940)
 						    font       	(object Font
 							size       	10
@@ -4342,7 +4474,7 @@
 							(1261, 1225))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object SynchronizationView "$UNNAMED$233" @140
+						(object SynchronizationView "$UNNAMED$266" @140
 						    location   	(2922, 1626)
 						    font       	(object Font
 							size       	10
@@ -4412,7 +4544,7 @@
 							(3110, 1703))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object SynchronizationView "$UNNAMED$234" @145
+						(object SynchronizationView "$UNNAMED$267" @145
 						    location   	(2931, 1939)
 						    font       	(object Font
 							size       	10
@@ -4498,7 +4630,7 @@
 				statemachine 	(object State_Machine "State/Activity Model"
 				    quid       	"515658F101F9"
 				    states     	(list States
-					(object State "$UNNAMED$241"
+					(object State "$UNNAMED$274"
 					    quid       	"515661AE015B"
 					    type       	"StartState")
 					(object ActivityState "Solicitar Planeamiento de Encuesta"
@@ -4549,7 +4681,7 @@
 					    quid       	"515674180074")
 					(object ActivityState "Recepcionar Plan operación de campo"
 					    quid       	"51567435004B")
-					(object State "$UNNAMED$242"
+					(object State "$UNNAMED$275"
 					    quid       	"5156744701F0"
 					    type       	"EndState")
 					(object ActivityState "Generar Plan de Proyecto de Encuesta"
@@ -4571,35 +4703,35 @@
 					(object ActivityState "Programar proyecciones"
 					    quid       	"51568BD50118"))
 				    partitions 	(list Partitions
-					(object Partition "$UNNAMED$243"
+					(object Partition "$UNNAMED$276"
 					    quid       	"515660850220"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Actores del negocio::AN001_Director_DNCE"
 					    quidu      	"514BBCDC02C6"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$244"
+					(object Partition "$UNNAMED$277"
 					    quid       	"515660B20094"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN002_Metodólogo"
 					    quidu      	"51565A1F0330"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$245"
+					(object Partition "$UNNAMED$278"
 					    quid       	"515660C401D4"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura"
 					    quidu      	"51565A3100F3"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$246"
+					(object Partition "$UNNAMED$279"
 					    quid       	"51566237010F"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN001_JefeProyecto"
 					    quidu      	"51565A0600A7"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Partition "$UNNAMED$247"
+					(object Partition "$UNNAMED$280"
 					    quid       	"51566CF100ED"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN008_Estadista"
 					    quidu      	"51566CBA0214"
@@ -4614,110 +4746,110 @@
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$248"
+					(object Object "$UNNAMED$281"
 					    quid       	"5156915403C1"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN003_Encuesta"
 					    quidu      	"51565C22026E"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$249"
+					(object Object "$UNNAMED$282"
 					    quid       	"5156916403D8"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN001_Pregunta"
 					    quidu      	"51565BEE0198"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$250"
+					(object Object "$UNNAMED$283"
 					    quid       	"5156917103B1"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN002_Respuesta"
 					    quidu      	"51565BFF0053"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$251"
+					(object Object "$UNNAMED$284"
 					    quid       	"515691F5011E"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN021_Cronograma"
 					    quidu      	"515664BF0107"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$252"
+					(object Object "$UNNAMED$285"
 					    quid       	"515692580052"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN010_Reglas_Validación"
 					    quidu      	"51565CDD032B"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$253"
+					(object Object "$UNNAMED$286"
 					    quid       	"515692CF0272"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN011_Planeamiento"
 					    quidu      	"5156929D0184"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$254"
+					(object Object "$UNNAMED$287"
 					    quid       	"5156932102A4"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN005_Encuestador"
 					    quidu      	"51565C4C030F"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$255"
+					(object Object "$UNNAMED$288"
 					    quid       	"515732D9002E"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN012_Presupuesto"
 					    quidu      	"515732BA00E9"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$256"
+					(object Object "$UNNAMED$289"
 					    quid       	"515733BC0182"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN013_Propuesta_planeamiento"
 					    quidu      	"5157338400C8"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$257"
+					(object Object "$UNNAMED$290"
 					    quid       	"515735100299"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN016_Plan_Pruebas"
 					    quidu      	"515734F802A6"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$258"
+					(object Object "$UNNAMED$291"
 					    quid       	"51574ADD005C"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN017_Muestra"
 					    quidu      	"51574AC60258"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$259"
+					(object Object "$UNNAMED$292"
 					    quid       	"51574D4203BC"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN018_Ruta_trabajo"
 					    quidu      	"51574C7A033F"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$260"
+					(object Object "$UNNAMED$293"
 					    quid       	"51574D550258"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN019_Carga_trabajo"
 					    quidu      	"51574C8B03E0"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$261"
+					(object Object "$UNNAMED$294"
 					    quid       	"51574D690145"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN020_Plan_operativo"
 					    quidu      	"51574CA70226"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$262"
+					(object Object "$UNNAMED$295"
 					    quid       	"51574DAD012B"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
 					    multi      	FALSE)
-					(object Object "$UNNAMED$263"
+					(object Object "$UNNAMED$296"
 					    quid       	"515751CD00D5"
 					    class      	"Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio:: EN014_Tipo_pregunta"
 					    quidu      	"5157514701CC"
@@ -4764,7 +4896,7 @@
 					    quid       	"515661DF03C8"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Solicitar Planeamiento de Encuesta"
 					    supplier_quidu 	"515661B800A2"
-					    client     	"$UNNAMED$241"
+					    client     	"$UNNAMED$274"
 					    client_quidu 	"515661AE015B"
 					    sendEvent  	(object sendEvent
 						quid       	"515661DF03CB"))
@@ -4906,7 +5038,7 @@
 						quid       	"51566F20038C"))
 					(object State_Transition
 					    quid       	"5156744E0036"
-					    supplier   	"$UNNAMED$242"
+					    supplier   	"$UNNAMED$275"
 					    supplier_quidu 	"5156744701F0"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Recepcionar Plan operación de campo"
 					    client_quidu 	"51567435004B"
@@ -4986,7 +5118,7 @@
 						quid       	"5156789B00F3"))
 					(object State_Transition
 					    quid       	"515678A00073"
-					    supplier   	"$UNNAMED$242"
+					    supplier   	"$UNNAMED$275"
 					    supplier_quidu 	"5156744701F0"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Recepcionar Plan Proyecto de Encuesta"
 					    client_quidu 	"51567854011E"
@@ -5123,31 +5255,31 @@
 					    client_quidu 	"51567CD7039A")
 					(object Object_Flow
 					    quid       	"515691B3036A"
-					    supplier   	"$UNNAMED$248"
+					    supplier   	"$UNNAMED$281"
 					    supplier_quidu 	"5156915403C1"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Determinar Temas, variables y clasificaciones"
 					    client_quidu 	"515666F9039A")
 					(object Object_Flow
 					    quid       	"515691BD03B1"
-					    supplier   	"$UNNAMED$249"
+					    supplier   	"$UNNAMED$282"
 					    supplier_quidu 	"5156916403D8"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Redactar preguntas y opciones de respuesta"
 					    client_quidu 	"5156683D001C")
 					(object Object_Flow
 					    quid       	"515691DE0013"
-					    supplier   	"$UNNAMED$250"
+					    supplier   	"$UNNAMED$283"
 					    supplier_quidu 	"5156917103B1"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Redactar preguntas y opciones de respuesta"
 					    client_quidu 	"5156683D001C")
 					(object Object_Flow
 					    quid       	"515692120370"
-					    supplier   	"$UNNAMED$251"
+					    supplier   	"$UNNAMED$284"
 					    supplier_quidu 	"515691F5011E"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Realizar elaboración de Cronograma"
 					    client_quidu 	"5156649A0360")
 					(object Object_Flow
 					    quid       	"5156927200C2"
-					    supplier   	"$UNNAMED$252"
+					    supplier   	"$UNNAMED$285"
 					    supplier_quidu 	"515692580052"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Determinar criterios y reglas de solución"
 					    client_quidu 	"51566B5F0309")
@@ -5155,23 +5287,23 @@
 					    quid       	"515692E3016E"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Recepcionar Plan Proyecto de Encuesta"
 					    supplier_quidu 	"51567854011E"
-					    client     	"$UNNAMED$253"
+					    client     	"$UNNAMED$286"
 					    client_quidu 	"515692CF0272")
 					(object Object_Flow
 					    quid       	"5156933B030D"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Diseñar estrategias para  para la integración de recursos humanos"
 					    supplier_quidu 	"5156720D02F8"
-					    client     	"$UNNAMED$254"
+					    client     	"$UNNAMED$287"
 					    client_quidu 	"5156932102A4")
 					(object Object_Flow
 					    quid       	"51573364023B"
-					    supplier   	"$UNNAMED$255"
+					    supplier   	"$UNNAMED$288"
 					    supplier_quidu 	"515732D9002E"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Realizar elaboración de Presupuesto"
 					    client_quidu 	"5156669B00E2")
 					(object Object_Flow
 					    quid       	"515733CE006C"
-					    supplier   	"$UNNAMED$256"
+					    supplier   	"$UNNAMED$289"
 					    supplier_quidu 	"515733BC0182"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Realizar establecimiento de Cobertura"
 					    client_quidu 	"51566401036E")
@@ -5179,11 +5311,11 @@
 					    quid       	"515733EF0319"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Realizar establecimiento de Cobertura"
 					    supplier_quidu 	"51566401036E"
-					    client     	"$UNNAMED$256"
+					    client     	"$UNNAMED$289"
 					    client_quidu 	"515733BC0182")
 					(object Object_Flow
 					    quid       	"515733F303E7"
-					    supplier   	"$UNNAMED$256"
+					    supplier   	"$UNNAMED$289"
 					    supplier_quidu 	"515733BC0182"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Realizar definición de estrategia"
 					    client_quidu 	"5156642803DC")
@@ -5195,13 +5327,13 @@
 					    client_quidu 	"515690EA018A")
 					(object Object_Flow
 					    quid       	"5157356A0171"
-					    supplier   	"$UNNAMED$257"
+					    supplier   	"$UNNAMED$290"
 					    supplier_quidu 	"515735100299"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Generar Documento de pruebas"
 					    client_quidu 	"51567F030267")
 					(object Object_Flow
 					    quid       	"51574AFA033E"
-					    supplier   	"$UNNAMED$258"
+					    supplier   	"$UNNAMED$291"
 					    supplier_quidu 	"51574ADD005C"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Definir Esquema de muestreo"
 					    client_quidu 	"51566D4A0035")
@@ -5209,11 +5341,11 @@
 					    quid       	"51574BEE0204"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Definir Esquema de muestreo"
 					    supplier_quidu 	"51566D4A0035"
-					    client     	"$UNNAMED$258"
+					    client     	"$UNNAMED$291"
 					    client_quidu 	"51574ADD005C")
 					(object Object_Flow
 					    quid       	"51574BF50187"
-					    supplier   	"$UNNAMED$258"
+					    supplier   	"$UNNAMED$291"
 					    supplier_quidu 	"51574ADD005C"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Diseñar estimadores"
 					    client_quidu 	"51566F030122")
@@ -5221,29 +5353,29 @@
 					    quid       	"51574C67008E"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Determinar estructura operativa y programa de actividades"
 					    supplier_quidu 	"515671460094"
-					    client     	"$UNNAMED$254"
+					    client     	"$UNNAMED$287"
 					    client_quidu 	"5156932102A4")
 					(object Object_Flow
 					    quid       	"51574C6E01C9"
-					    supplier   	"$UNNAMED$254"
+					    supplier   	"$UNNAMED$287"
 					    supplier_quidu 	"5156932102A4"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Diseñar estrategias para  para la integración de recursos humanos"
 					    client_quidu 	"5156720D02F8")
 					(object Object_Flow
 					    quid       	"51574DA80306"
-					    supplier   	"$UNNAMED$260"
+					    supplier   	"$UNNAMED$293"
 					    supplier_quidu 	"51574D550258"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Asignar Carga de trabajo"
 					    client_quidu 	"51567392027C")
 					(object Object_Flow
 					    quid       	"51574DB60243"
-					    supplier   	"$UNNAMED$259"
+					    supplier   	"$UNNAMED$292"
 					    supplier_quidu 	"51574D4203BC"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Establecer ruta"
 					    client_quidu 	"515673F201F1")
 					(object Object_Flow
 					    quid       	"51574DBC0141"
-					    supplier   	"$UNNAMED$261"
+					    supplier   	"$UNNAMED$294"
 					    supplier_quidu 	"51574D690145"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Generar Plan operación campo"
 					    client_quidu 	"515674180074")
@@ -5251,17 +5383,17 @@
 					    quid       	"51574DFF0250"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Recepcionar Plan operación de campo"
 					    supplier_quidu 	"51567435004B"
-					    client     	"$UNNAMED$261"
+					    client     	"$UNNAMED$294"
 					    client_quidu 	"51574D690145")
 					(object Object_Flow
 					    quid       	"51574E550258"
-					    supplier   	"$UNNAMED$253"
+					    supplier   	"$UNNAMED$286"
 					    supplier_quidu 	"515692CF0272"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Generar Plan de Proyecto de Encuesta"
 					    client_quidu 	"51567834028A")
 					(object Object_Flow
 					    quid       	"5157530B02E4"
-					    supplier   	"$UNNAMED$263"
+					    supplier   	"$UNNAMED$296"
 					    supplier_quidu 	"515751CD00D5"
 					    client     	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Redactar preguntas y opciones de respuesta"
 					    client_quidu 	"5156683D001C")
@@ -5275,13 +5407,13 @@
 					    quid       	"515753280179"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Ordenar preguntas y opciones de respuesta"
 					    supplier_quidu 	"5156685C02F3"
-					    client     	"$UNNAMED$249"
+					    client     	"$UNNAMED$282"
 					    client_quidu 	"5156916403D8")
 					(object Object_Flow
 					    quid       	"5157532E01A1"
 					    supplier   	"Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo::State/Activity Model::Ordenar preguntas y opciones de respuesta"
 					    supplier_quidu 	"5156685C02F3"
-					    client     	"$UNNAMED$250"
+					    client     	"$UNNAMED$283"
 					    client_quidu 	"5156917103B1")
 					(object Object_Flow
 					    quid       	"5157778400E9"
@@ -5317,11 +5449,11 @@
 					    origin_x   	1472
 					    origin_y   	707
 					    items      	(list diagram_item_list
-						(object Swimlane "$UNNAMED$243" @151
+						(object Swimlane "$UNNAMED$276" @151
 						    line_color 	3342489
 						    quidu      	"515660850220"
 						    width      	828)
-						(object StateView "StartState" "$UNNAMED$241" @152
+						(object StateView "StartState" "$UNNAMED$274" @152
 						    Parent_View 	@151
 						    location   	(401, 133)
 						    icon_style 	"Icon"
@@ -5368,7 +5500,7 @@
 							(399, 370))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object StateView "EndState" "$UNNAMED$242" @155
+						(object StateView "EndState" "$UNNAMED$275" @155
 						    Parent_View 	@151
 						    location   	(454, 5518)
 						    icon_style 	"Icon"
@@ -5415,7 +5547,7 @@
 							(455, 5476))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$246" @158
+						(object Swimlane "$UNNAMED$279" @158
 						    location   	(828, 0)
 						    line_color 	3342489
 						    quidu      	"51566237010F"
@@ -5740,7 +5872,7 @@
 							(728, 5312))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$244" @175
+						(object Swimlane "$UNNAMED$277" @175
 						    location   	(2532, 0)
 						    line_color 	3342489
 						    quidu      	"515660B20094"
@@ -6331,7 +6463,7 @@
 							(2961, 3050))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$247" @205
+						(object Swimlane "$UNNAMED$280" @205
 						    location   	(4306, 0)
 						    line_color 	3342489
 						    quidu      	"51566CF100ED"
@@ -6695,7 +6827,7 @@
 							(4605, 4076))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object Swimlane "$UNNAMED$245" @224
+						(object Swimlane "$UNNAMED$278" @224
 						    location   	(5388, 0)
 						    line_color 	3342489
 						    quidu      	"515660C401D4"
@@ -6911,7 +7043,7 @@
 							(1475, 4965))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ObjectView "$UNNAMED$253" @236
+						(object ObjectView "$UNNAMED$286" @236
 						    Parent_View 	@151
 						    location   	(451, 4832)
 						    font       	(object Font
@@ -6928,7 +7060,7 @@
 							location   	(451, 5006)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -6961,7 +7093,7 @@
 							(1113, 5095)
 							(579, 4882))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$251" @239
+						(object ObjectView "$UNNAMED$284" @239
 						    Parent_View 	@158
 						    location   	(1826, 1393)
 						    font       	(object Font
@@ -6978,7 +7110,7 @@
 							location   	(1826, 1567)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -6991,7 +7123,7 @@
 						    subobjects 	0
 						    x_offset   	0.000000
 						    y_offset   	0.000000)
-						(object ObjectView "$UNNAMED$255" @240
+						(object ObjectView "$UNNAMED$288" @240
 						    Parent_View 	@158
 						    location   	(1174, 1614)
 						    font       	(object Font
@@ -7008,7 +7140,7 @@
 							location   	(1174, 1788)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7048,7 +7180,7 @@
 							location   	(1298, 295)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	902
+							max_width  	908
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -7078,7 +7210,7 @@
 							location   	(1722, 272)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	905
+							max_width  	911
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -7108,7 +7240,7 @@
 							location   	(2081, 492)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	908
+							max_width  	915
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -7138,7 +7270,7 @@
 							location   	(1900, 818)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	918
+							max_width  	924
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -7168,7 +7300,7 @@
 							location   	(3633, 2522)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	795
+							max_width  	802
 							justify    	0
 							label      	"Cuestionario")
 						    icon       	"Business Entity"
@@ -7201,7 +7333,7 @@
 							(3502, 2364)
 							(3195, 2413))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$248" @249
+						(object ObjectView "$UNNAMED$281" @249
 						    Parent_View 	@175
 						    location   	(3004, 1003)
 						    font       	(object Font
@@ -7218,7 +7350,7 @@
 							location   	(3004, 1177)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7241,7 +7373,7 @@
 							(2965, 1290)
 							(2988, 1095))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$249" @251
+						(object ObjectView "$UNNAMED$282" @251
 						    Parent_View 	@175
 						    location   	(3921, 1139)
 						    font       	(object Font
@@ -7258,7 +7390,7 @@
 							location   	(3921, 1313)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7292,7 +7424,7 @@
 							(3094, 1513)
 							(3790, 1195))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$250" @254
+						(object ObjectView "$UNNAMED$283" @254
 						    Parent_View 	@175
 						    location   	(4115, 1582)
 						    font       	(object Font
@@ -7309,7 +7441,7 @@
 							location   	(4115, 1756)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7343,7 +7475,7 @@
 							(3230, 1576)
 							(3985, 1578))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$252" @257
+						(object ObjectView "$UNNAMED$285" @257
 						    Parent_View 	@175
 						    location   	(3588, 2781)
 						    font       	(object Font
@@ -7360,7 +7492,7 @@
 							location   	(3588, 2955)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7383,7 +7515,7 @@
 							(3177, 2782)
 							(3458, 2781))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$257" @259
+						(object ObjectView "$UNNAMED$290" @259
 						    Parent_View 	@175
 						    location   	(3449, 3257)
 						    font       	(object Font
@@ -7400,7 +7532,7 @@
 							location   	(3449, 3431)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7423,7 +7555,7 @@
 							(3165, 3171)
 							(3319, 3215))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$263" @261
+						(object ObjectView "$UNNAMED$296" @261
 						    Parent_View 	@175
 						    location   	(3566, 901)
 						    font       	(object Font
@@ -7440,7 +7572,7 @@
 							location   	(3566, 1075)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7481,7 +7613,7 @@
 							location   	(3744, 2150)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	863
+							max_width  	869
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -7504,7 +7636,7 @@
 							(3078, 1637)
 							(3614, 1908))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$258" @265
+						(object ObjectView "$UNNAMED$291" @265
 						    Parent_View 	@205
 						    location   	(5113, 2842)
 						    font       	(object Font
@@ -7521,7 +7653,7 @@
 							location   	(5113, 3016)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7556,7 +7688,7 @@
 							(5092, 3841)
 							(5109, 2934))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$254" @268
+						(object ObjectView "$UNNAMED$287" @268
 						    Parent_View 	@224
 						    location   	(6881, 4164)
 						    font       	(object Font
@@ -7573,7 +7705,7 @@
 							location   	(6881, 4338)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	937
+							max_width  	943
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7606,7 +7738,7 @@
 							(6283, 4285)
 							(6750, 4187))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$259" @271
+						(object ObjectView "$UNNAMED$292" @271
 						    Parent_View 	@224
 						    location   	(6602, 4676)
 						    font       	(object Font
@@ -7623,7 +7755,7 @@
 							location   	(6602, 4850)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7646,7 +7778,7 @@
 							(6105, 4559)
 							(6470, 4642))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$260" @273
+						(object ObjectView "$UNNAMED$293" @273
 						    Parent_View 	@224
 						    location   	(6608, 5116)
 						    font       	(object Font
@@ -7663,7 +7795,7 @@
 							location   	(6608, 5290)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7686,7 +7818,7 @@
 							(6036, 4747)
 							(6478, 5031))
 						    line_style 	0)
-						(object ObjectView "$UNNAMED$261" @275
+						(object ObjectView "$UNNAMED$294" @275
 						    Parent_View 	@224
 						    location   	(5952, 5157)
 						    font       	(object Font
@@ -7703,7 +7835,7 @@
 							location   	(5952, 5331)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -7751,7 +7883,7 @@
 							(2665, 1358))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ObjectView "$UNNAMED$256" @280
+						(object ObjectView "$UNNAMED$289" @280
 						    Parent_View 	@158
 						    location   	(1857, 970)
 						    font       	(object Font
@@ -7768,7 +7900,7 @@
 							location   	(1857, 1144)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	924
+							max_width  	931
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -11496,15 +11628,15 @@
 			max_height 	28350
 			max_width  	21600
 			origin_x   	0
-			origin_y   	0
+			origin_y   	338
 			items      	(list diagram_item_list
-			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor" @483
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN005_Encuestador" @483
 				ShowCompartmentStereotypes 	TRUE
 				SuppressAttribute 	TRUE
 				SuppressOperation 	TRUE
 				IncludeAttribute 	TRUE
 				IncludeOperation 	TRUE
-				location   	(837, 597)
+				location   	(1204, 2087)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -11516,7 +11648,131 @@
 				    default_color 	TRUE)
 				label      	(object ItemLabel
 				    Parent_View 	@483
-				    location   	(836, 821)
+				    location   	(1204, 2261)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	947
+				    justify    	0
+				    label      	"EN005_Encuestador")
+				icon       	"Business Entity"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"51565C4C030F"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN030_Indicador_encuestador" @484
+				ShowCompartmentStereotypes 	TRUE
+				SuppressAttribute 	TRUE
+				SuppressOperation 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(470, 1544)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@484
+				    location   	(470, 1718)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	943
+				    justify    	0
+				    label      	"EN030_Indicador_encuestador")
+				icon       	"Business Entity"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"515884E7029C"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN029_Avance_encuesta" @485
+				ShowCompartmentStereotypes 	TRUE
+				SuppressAttribute 	TRUE
+				SuppressOperation 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1196, 225)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@485
+				    location   	(1196, 399)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	937
+				    justify    	0
+				    label      	"EN029_Avance_encuesta")
+				icon       	"Business Entity"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"515874BA03D8"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN031_Indicador_encuesta" @486
+				ShowCompartmentStereotypes 	TRUE
+				SuppressAttribute 	TRUE
+				SuppressOperation 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(489, 748)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@486
+				    location   	(489, 922)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	940
+				    justify    	0
+				    label      	"EN031_Indicador_encuesta")
+				icon       	"Business Entity"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"515884FD019E"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN006_Monitor" @487
+				ShowCompartmentStereotypes 	TRUE
+				SuppressAttribute 	TRUE
+				SuppressOperation 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1191, 750)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@487
+				    location   	(1190, 974)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	838
@@ -11531,13 +11787,91 @@
 				height     	290
 				annotation 	8
 				autoResize 	TRUE)
-			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura" @484
+			    (object AssociationViewNew "$UNNAMED$237" @488
+				location   	(1191, 536)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515886AC01FB"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$238" @489
+					Parent_View 	@488
+					location   	(-5, 311)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886AD00D9"
+					client     	@488
+					supplier   	@487
+					vertices   	(list Points
+					    (1191, 536)
+					    (1190, 605))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$239" @490
+					Parent_View 	@488
+					location   	(-5, 311)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886AD00DE"
+					client     	@488
+					supplier   	@485
+					vertices   	(list Points
+					    (1191, 536)
+					    (1192, 468))
+					line_style 	0)))
+			    (object AssociationViewNew "$UNNAMED$240" @491
+				location   	(831, 747)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515886B000F3"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$241" @492
+					Parent_View 	@491
+					location   	(330, 9)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886B003A1"
+					client     	@491
+					supplier   	@487
+					vertices   	(list Points
+					    (831, 747)
+					    (1045, 747))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$242" @493
+					Parent_View 	@491
+					location   	(330, 9)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886B003A6"
+					client     	@491
+					supplier   	@486
+					vertices   	(list Points
+					    (831, 747)
+					    (617, 748))
+					line_style 	0)))
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN019_Carga_trabajo" @494
 				ShowCompartmentStereotypes 	TRUE
 				SuppressAttribute 	TRUE
 				SuppressOperation 	TRUE
 				IncludeAttribute 	TRUE
 				IncludeOperation 	TRUE
-				location   	(2042, 602)
+				location   	(1996, 1125)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -11548,8 +11882,78 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@484
-				    location   	(2041, 826)
+				    Parent_View 	@494
+				    location   	(1996, 1299)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	934
+				    justify    	0
+				    label      	"EN019_Carga_trabajo")
+				icon       	"Business Entity"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"51574C8B03E0"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object AssociationViewNew "$UNNAMED$246" @495
+				location   	(1599, 938)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515886B703E2"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$247" @496
+					Parent_View 	@495
+					location   	(-397, -187)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886B8035C"
+					client     	@495
+					supplier   	@487
+					vertices   	(list Points
+					    (1599, 938)
+					    (1334, 814))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$248" @497
+					Parent_View 	@495
+					location   	(-397, -187)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886B80362"
+					client     	@495
+					supplier   	@494
+					vertices   	(list Points
+					    (1599, 938)
+					    (1865, 1062))
+					line_style 	0)))
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Trabajadores el negocio::TN003_Supervisor_de_Captura" @498
+				ShowCompartmentStereotypes 	TRUE
+				SuppressAttribute 	TRUE
+				SuppressOperation 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1187, 1548)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@498
+				    location   	(1186, 1772)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	841
@@ -11564,15 +11968,15 @@
 				height     	290
 				annotation 	8
 				autoResize 	TRUE)
-			    (object AssociationViewNew "$UNNAMED$153" @485
-				location   	(1438, 597)
+			    (object AssociationViewNew "$UNNAMED$153" @499
+				location   	(1186, 1223)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"5157592900FB"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$155" @486
-					Parent_View 	@485
-					location   	(816, -22)
+				    (object RoleView "$UNNAMED$155" @500
+					Parent_View 	@499
+					location   	(564, 604)
 					font       	(object Font
 					    size       	10
 					    face       	"Arial"
@@ -11582,9 +11986,9 @@
 					    strike     	FALSE
 					    color      	0
 					    default_color 	TRUE)
-					label      	(object SegLabel @487
-					    Parent_View 	@486
-					    location   	(1803, 557)
+					label      	(object SegLabel @501
+					    Parent_View 	@500
+					    location   	(1228, 1367)
 					    font       	(object Font
 						size       	10
 						face       	"Arial"
@@ -11607,15 +12011,15 @@
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5157592A00CF"
-					client     	@485
-					supplier   	@484
+					client     	@499
+					supplier   	@498
 					vertices   	(list Points
-					    (1438, 597)
-					    (1896, 598))
+					    (1186, 1223)
+					    (1186, 1403))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$154" @488
-					Parent_View 	@485
-					location   	(816, -22)
+				    (object RoleView "$UNNAMED$154" @502
+					Parent_View 	@499
+					location   	(564, 604)
 					font       	(object Font
 					    size       	10
 					    face       	"Arial"
@@ -11625,9 +12029,9 @@
 					    strike     	FALSE
 					    color      	0
 					    default_color 	TRUE)
-					label      	(object SegLabel @489
-					    Parent_View 	@488
-					    location   	(1073, 555)
+					label      	(object SegLabel @503
+					    Parent_View 	@502
+					    location   	(1229, 1079)
 					    font       	(object Font
 						size       	10
 						face       	"Arial"
@@ -11650,11 +12054,386 @@
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5157592A00C7"
-					client     	@485
+					client     	@499
+					supplier   	@487
+					vertices   	(list Points
+					    (1186, 1223)
+					    (1187, 1043))
+					line_style 	0)))
+			    (object AssociationViewNew "$UNNAMED$27" @504
+				location   	(1196, 1917)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515694910270"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$29" @505
+					Parent_View 	@504
+					location   	(-982, 986)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					label      	(object SegLabel @506
+					    Parent_View 	@505
+					    location   	(1236, 1857)
+					    font       	(object Font
+						size       	10
+						face       	"Arial"
+						bold       	FALSE
+						italics    	FALSE
+						underline  	FALSE
+						strike     	FALSE
+						color      	0
+						default_color 	TRUE)
+					    hidden     	TRUE
+					    anchor     	1
+					    anchor_loc 	1
+					    nlines     	1
+					    max_width  	450
+					    justify    	0
+					    label      	""
+					    pctDist    	0.800000
+					    height     	42
+					    orientation 	1)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515694920281"
+					client     	@504
+					supplier   	@498
+					vertices   	(list Points
+					    (1196, 1917)
+					    (1194, 1841))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$28" @507
+					Parent_View 	@504
+					location   	(-982, 986)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					label      	(object SegLabel @508
+					    Parent_View 	@507
+					    location   	(1240, 1976)
+					    font       	(object Font
+						size       	10
+						face       	"Arial"
+						bold       	FALSE
+						italics    	FALSE
+						underline  	FALSE
+						strike     	FALSE
+						color      	0
+						default_color 	TRUE)
+					    hidden     	TRUE
+					    anchor     	1
+					    anchor_loc 	1
+					    nlines     	1
+					    max_width  	450
+					    justify    	0
+					    label      	""
+					    pctDist    	0.800000
+					    height     	42
+					    orientation 	0)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"51569492025E"
+					client     	@504
 					supplier   	@483
 					vertices   	(list Points
-					    (1438, 597)
-					    (980, 596))
+					    (1196, 1917)
+					    (1199, 1993))
+					line_style 	0)))
+			    (object AssociationViewNew "$UNNAMED$138" @509
+				location   	(1196, 1917)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515758DA0304"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$140" @510
+					Parent_View 	@509
+					location   	(-982, 986)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					label      	(object SegLabel @511
+					    Parent_View 	@510
+					    location   	(1236, 1857)
+					    font       	(object Font
+						size       	10
+						face       	"Arial"
+						bold       	FALSE
+						italics    	FALSE
+						underline  	FALSE
+						strike     	FALSE
+						color      	0
+						default_color 	TRUE)
+					    hidden     	TRUE
+					    anchor     	1
+					    anchor_loc 	1
+					    nlines     	1
+					    max_width  	450
+					    justify    	0
+					    label      	""
+					    pctDist    	0.800000
+					    height     	42
+					    orientation 	1)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515758DC01EB"
+					client     	@509
+					supplier   	@498
+					vertices   	(list Points
+					    (1196, 1917)
+					    (1194, 1841))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$139" @512
+					Parent_View 	@509
+					location   	(-982, 986)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					label      	(object SegLabel @513
+					    Parent_View 	@512
+					    location   	(1240, 1976)
+					    font       	(object Font
+						size       	10
+						face       	"Arial"
+						bold       	FALSE
+						italics    	FALSE
+						underline  	FALSE
+						strike     	FALSE
+						color      	0
+						default_color 	TRUE)
+					    hidden     	TRUE
+					    anchor     	1
+					    anchor_loc 	1
+					    nlines     	1
+					    max_width  	450
+					    justify    	0
+					    label      	""
+					    pctDist    	0.800000
+					    height     	42
+					    orientation 	0)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515758DC01DE"
+					client     	@509
+					supplier   	@483
+					vertices   	(list Points
+					    (1196, 1917)
+					    (1199, 1993))
+					line_style 	0)))
+			    (object AssociationViewNew "$UNNAMED$234" @514
+				location   	(820, 1544)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"5158868802CB"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$235" @515
+					Parent_View 	@514
+					location   	(-367, -4)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886890239"
+					client     	@514
+					supplier   	@484
+					vertices   	(list Points
+					    (820, 1544)
+					    (598, 1544))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$236" @516
+					Parent_View 	@514
+					location   	(-367, -4)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"51588689023F"
+					client     	@514
+					supplier   	@498
+					vertices   	(list Points
+					    (820, 1544)
+					    (1042, 1544))
+					line_style 	0)))
+			    (object AssociationViewNew "$UNNAMED$249" @517
+				location   	(1745, 1547)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515886C70318"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$250" @518
+					Parent_View 	@517
+					location   	(558, -1)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886CB0208"
+					client     	@517
+					supplier   	@494
+					vertices   	(list Points
+					    (1745, 1547)
+					    (1981, 1547)
+					    (1983, 1368))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$251" @519
+					Parent_View 	@517
+					location   	(558, -1)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886CB021A"
+					client     	@517
+					supplier   	@498
+					vertices   	(list Points
+					    (1745, 1547)
+					    (1330, 1546))
+					line_style 	0)))
+			    (object ClassView "Class" "Use Case View::Modelo de Casos de uso del negocio::Entidades del negocio::EN018_Ruta_trabajo" @520
+				ShowCompartmentStereotypes 	TRUE
+				SuppressAttribute 	TRUE
+				SuppressOperation 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1948, 550)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@520
+				    location   	(1948, 724)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	931
+				    justify    	0
+				    label      	"EN018_Ruta_trabajo")
+				icon       	"Business Entity"
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"51574C7A033F"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object AssociationViewNew "$UNNAMED$243" @521
+				location   	(1576, 644)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515886B40163"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$244" @522
+					Parent_View 	@521
+					location   	(-372, 94)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886B403D4"
+					client     	@521
+					supplier   	@487
+					vertices   	(list Points
+					    (1576, 644)
+					    (1334, 708))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$245" @523
+					Parent_View 	@521
+					location   	(-372, 94)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886B403DA"
+					client     	@521
+					supplier   	@520
+					vertices   	(list Points
+					    (1576, 644)
+					    (1818, 581))
+					line_style 	0)))
+			    (object AssociationViewNew "$UNNAMED$252" @524
+				location   	(2540, 1467)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"515886DF02DD"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$253" @525
+					Parent_View 	@524
+					location   	(1353, -81)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886EC0101"
+					client     	@524
+					supplier   	@520
+					vertices   	(list Points
+					    (2540, 1467)
+					    (2548, 550)
+					    (2076, 550))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$254" @526
+					Parent_View 	@524
+					location   	(1353, -81)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"515886EC0113"
+					client     	@524
+					supplier   	@498
+					vertices   	(list Points
+					    (2540, 1467)
+					    (2539, 1641)
+					    (1694, 1644)
+					    (1330, 1572))
 					line_style 	0))))))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
@@ -11707,7 +12486,7 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list
-		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo" @490
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo" @527
 			location   	(525, 478)
 			font       	(object Font
 			    size       	10
@@ -11719,7 +12498,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@490
+			    Parent_View 	@527
 			    location   	(524, 653)
 			    anchor_loc 	1
 			    nlines     	2
@@ -11732,7 +12511,7 @@
 			fill_color 	13434879
 			quidu      	"514BBE8401AC"
 			width      	306)
-		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos" @491
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos" @528
 			location   	(497, 997)
 			font       	(object Font
 			    size       	10
@@ -11744,7 +12523,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@491
+			    Parent_View 	@528
 			    location   	(496, 1172)
 			    anchor_loc 	1
 			    nlines     	2
@@ -11757,7 +12536,7 @@
 			fill_color 	13434879
 			quidu      	"514BBDB9016A"
 			width      	306)
-		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo" @492
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo" @529
 			location   	(528, 1500)
 			font       	(object Font
 			    size       	10
@@ -11769,7 +12548,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@492
+			    Parent_View 	@529
 			    location   	(527, 1675)
 			    anchor_loc 	1
 			    nlines     	2
@@ -11782,7 +12561,7 @@
 			fill_color 	13434879
 			quidu      	"514BBDCD02E1"
 			width      	306)
-		    (object UseCaseView "Logical View::RCUN001_Realizar_Planificación_operación_campo" @493
+		    (object UseCaseView "Logical View::RCUN001_Realizar_Planificación_operación_campo" @530
 			location   	(1652, 472)
 			font       	(object Font
 			    size       	10
@@ -11794,7 +12573,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@493
+			    Parent_View 	@530
 			    location   	(1652, 613)
 			    anchor_loc 	1
 			    nlines     	2
@@ -11806,7 +12585,7 @@
 			line_color 	3342489
 			fill_color 	16777088
 			quidu      	"51548F8A0242")
-		    (object UseCaseView "Logical View::RCUN002_Realizar_Procesamiento_datos" @494
+		    (object UseCaseView "Logical View::RCUN002_Realizar_Procesamiento_datos" @531
 			location   	(1668, 1003)
 			font       	(object Font
 			    size       	10
@@ -11818,7 +12597,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@494
+			    Parent_View 	@531
 			    location   	(1668, 1144)
 			    anchor_loc 	1
 			    nlines     	2
@@ -11830,7 +12609,7 @@
 			line_color 	3342489
 			fill_color 	16777088
 			quidu      	"515490340159")
-		    (object UseCaseView "Logical View::RCUN003_Realizar_Monitoreo_operación_campo" @495
+		    (object UseCaseView "Logical View::RCUN003_Realizar_Monitoreo_operación_campo" @532
 			location   	(1645, 1500)
 			font       	(object Font
 			    size       	10
@@ -11842,7 +12621,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@495
+			    Parent_View 	@532
 			    location   	(1645, 1641)
 			    anchor_loc 	1
 			    nlines     	2
@@ -11854,32 +12633,32 @@
 			line_color 	3342489
 			fill_color 	16777088
 			quidu      	"515490820029")
-		    (object RealizeView "" @496
+		    (object RealizeView "" @533
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"5154919C002F"
-			client     	@493
-			supplier   	@490
+			client     	@530
+			supplier   	@527
 			vertices   	(list Points
 			    (1537, 472)
 			    (675, 474))
 			line_style 	0)
-		    (object RealizeView "" @497
+		    (object RealizeView "" @534
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"515491A40348"
-			client     	@494
-			supplier   	@491
+			client     	@531
+			supplier   	@528
 			vertices   	(list Points
 			    (1555, 999)
 			    (647, 997))
 			line_style 	0)
-		    (object RealizeView "" @498
+		    (object RealizeView "" @535
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"515491AD0238"
-			client     	@495
-			supplier   	@492
+			client     	@532
+			supplier   	@529
 			vertices   	(list Points
 			    (1530, 1500)
 			    (678, 1500))
