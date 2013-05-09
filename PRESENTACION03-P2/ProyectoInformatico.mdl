@@ -2969,7 +2969,7 @@
 							location   	(412, 2028)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1594
+							max_width  	1601
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -2979,7 +2979,7 @@
 						    quidu      	"515DB6980348"
 						    compartment 	(object Compartment
 							Parent_View 	@66
-							location   	(-386, 2069)
+							location   	(-390, 2069)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -2992,7 +2992,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1594
+							max_width  	1601
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3027,7 +3027,7 @@
 							location   	(1412, 1565)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1597
+							max_width  	1604
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3037,7 +3037,7 @@
 						    quidu      	"5158957602A8"
 						    compartment 	(object Compartment
 							Parent_View 	@68
-							location   	(612, 1606)
+							location   	(609, 1606)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3050,7 +3050,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1597
+							max_width  	1604
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3104,7 +3104,7 @@
 							location   	(1439, 2099)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1664
+							max_width  	1668
 							justify    	0
 							label      	"    ")
 						    icon       	"Business Entity"
@@ -3114,7 +3114,7 @@
 						    quidu      	"5162F5CF01E0"
 						    compartment 	(object Compartment
 							Parent_View 	@72
-							location   	(606, 2140)
+							location   	(604, 2140)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3127,7 +3127,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1664
+							max_width  	1668
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3155,7 +3155,7 @@
 							location   	(2977, 273)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1601
+							max_width  	1607
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3165,7 +3165,7 @@
 						    quidu      	"515774F300A9"
 						    compartment 	(object Compartment
 							Parent_View 	@73
-							location   	(2175, 314)
+							location   	(2172, 314)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3178,7 +3178,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1601
+							max_width  	1607
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3213,7 +3213,7 @@
 							location   	(3014, 656)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1604
+							max_width  	1611
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3223,7 +3223,7 @@
 						    quidu      	"5157755601A6"
 						    compartment 	(object Compartment
 							Parent_View 	@75
-							location   	(2211, 697)
+							location   	(2207, 697)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3236,7 +3236,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1604
+							max_width  	1611
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3271,7 +3271,7 @@
 							location   	(2896, 1148)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -3281,7 +3281,7 @@
 						    quidu      	"5157713C0253"
 						    compartment 	(object Compartment
 							Parent_View 	@77
-							location   	(2084, 1113)
+							location   	(2082, 1113)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3294,7 +3294,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3336,7 +3336,7 @@
 							location   	(4232, 2637)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1611
+							max_width  	1616
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3346,7 +3346,7 @@
 						    quidu      	"5157733B00C5"
 						    compartment 	(object Compartment
 							Parent_View 	@80
-							location   	(3425, 2678)
+							location   	(3423, 2678)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3359,7 +3359,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1611
+							max_width  	1616
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3401,7 +3401,7 @@
 							location   	(3779, 1845)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -3411,7 +3411,7 @@
 						    quidu      	"5162B35D0221"
 						    compartment 	(object Compartment
 							Parent_View 	@83
-							location   	(2967, 1810)
+							location   	(2965, 1810)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3424,7 +3424,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3459,7 +3459,7 @@
 							location   	(5164, 2560)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1616
+							max_width  	1622
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3469,7 +3469,7 @@
 						    quidu      	"5157732F032D"
 						    compartment 	(object Compartment
 							Parent_View 	@85
-							location   	(4355, 2601)
+							location   	(4352, 2601)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3482,7 +3482,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1616
+							max_width  	1622
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3528,7 +3528,7 @@
 							location   	(5677, 894)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1619
+							max_width  	1624
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -3538,7 +3538,7 @@
 						    quidu      	"515DB5910180"
 						    compartment 	(object Compartment
 							Parent_View 	@88
-							location   	(4866, 935)
+							location   	(4864, 935)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3551,7 +3551,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1619
+							max_width  	1624
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -3586,7 +3586,7 @@
 							location   	(5732, 1445)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"     ")
 						    icon       	"Business Entity"
@@ -3596,7 +3596,7 @@
 						    quidu      	"5157731C021D"
 						    compartment 	(object Compartment
 							Parent_View 	@90
-							location   	(4920, 1486)
+							location   	(4918, 1486)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3609,7 +3609,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Consistenciado]"))
@@ -3658,7 +3658,7 @@
 							location   	(6497, 2413)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1624
+							max_width  	1629
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -3668,7 +3668,7 @@
 						    quidu      	"5157732B02DC"
 						    compartment 	(object Compartment
 							Parent_View 	@94
-							location   	(5684, 2454)
+							location   	(5681, 2454)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -3681,7 +3681,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1624
+							max_width  	1629
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Tabulado]"))
@@ -5312,7 +5312,7 @@
 							location   	(339, 2591)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1626
+							max_width  	1633
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -5322,7 +5322,7 @@
 						    quidu      	"5162546C0107"
 						    compartment 	(object Compartment
 							Parent_View 	@152
-							location   	(-475, 2632)
+							location   	(-479, 2632)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5335,7 +5335,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1626
+							max_width  	1633
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5370,7 +5370,7 @@
 							location   	(2003, 350)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -5380,7 +5380,7 @@
 						    quidu      	"515874E200DF"
 						    compartment 	(object Compartment
 							Parent_View 	@154
-							location   	(1191, 315)
+							location   	(1189, 315)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5393,7 +5393,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5428,7 +5428,7 @@
 							location   	(2216, 3058)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -5438,7 +5438,7 @@
 						    quidu      	"5158854703A4"
 						    compartment 	(object Compartment
 							Parent_View 	@156
-							location   	(1404, 3023)
+							location   	(1402, 3023)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5451,7 +5451,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5493,7 +5493,7 @@
 							location   	(1800, 991)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1636
+							max_width  	1643
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -5503,7 +5503,7 @@
 						    quidu      	"515877E90006"
 						    compartment 	(object Compartment
 							Parent_View 	@159
-							location   	(981, 1032)
+							location   	(977, 1032)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5516,7 +5516,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1636
+							max_width  	1643
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5551,7 +5551,7 @@
 							location   	(1409, 3377)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -5561,7 +5561,7 @@
 						    quidu      	"5162538703CC"
 						    compartment 	(object Compartment
 							Parent_View 	@161
-							location   	(597, 3342)
+							location   	(595, 3342)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5574,7 +5574,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5616,7 +5616,7 @@
 							location   	(1088, 2658)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -5626,7 +5626,7 @@
 						    quidu      	"5162590B01B5"
 						    compartment 	(object Compartment
 							Parent_View 	@164
-							location   	(276, 2623)
+							location   	(274, 2623)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5639,7 +5639,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5667,7 +5667,7 @@
 							location   	(3833, 1629)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1646
+							max_width  	1653
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -5677,7 +5677,7 @@
 						    quidu      	"51587CF802E6"
 						    compartment 	(object Compartment
 							Parent_View 	@165
-							location   	(3009, 1670)
+							location   	(3005, 1670)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5690,7 +5690,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1646
+							max_width  	1653
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Inactivo]"))
@@ -5725,7 +5725,7 @@
 							location   	(3663, 2636)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1649
+							max_width  	1656
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -5735,7 +5735,7 @@
 						    quidu      	"5158852B00D7"
 						    compartment 	(object Compartment
 							Parent_View 	@167
-							location   	(2837, 2677)
+							location   	(2834, 2677)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5748,7 +5748,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1649
+							max_width  	1656
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creada]"))
@@ -5783,7 +5783,7 @@
 							location   	(3799, 2100)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -5793,7 +5793,7 @@
 						    quidu      	"5161939900FB"
 						    compartment 	(object Compartment
 							Parent_View 	@169
-							location   	(2987, 2065)
+							location   	(2985, 2065)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -5806,7 +5806,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Reasignada]"))
@@ -8735,7 +8735,7 @@
 							location   	(2041, 442)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1133
+							max_width  	1140
 							justify    	0
 							label      	" ")
 						    icon       	"Business Entity"
@@ -8848,7 +8848,7 @@
 							location   	(2242, 995)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1548
+							max_width  	1552
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -8858,7 +8858,7 @@
 						    quidu      	"515CF7D603B9"
 						    compartment 	(object Compartment
 							Parent_View 	@270
-							location   	(1467, 1036)
+							location   	(1465, 1036)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -8871,7 +8871,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1548
+							max_width  	1552
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -8906,7 +8906,7 @@
 							location   	(2115, 1623)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1550
+							max_width  	1555
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -8916,7 +8916,7 @@
 						    quidu      	"515CF7E5026B"
 						    compartment 	(object Compartment
 							Parent_View 	@272
-							location   	(1339, 1664)
+							location   	(1336, 1664)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -8929,7 +8929,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1550
+							max_width  	1555
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -8971,7 +8971,7 @@
 							location   	(1899, 2233)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1559
+							max_width  	1565
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -8981,7 +8981,7 @@
 						    quidu      	"515D02690164"
 						    compartment 	(object Compartment
 							Parent_View 	@275
-							location   	(1118, 2274)
+							location   	(1115, 2274)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -8994,7 +8994,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1559
+							max_width  	1565
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9094,7 +9094,7 @@
 							location   	(1970, 8142)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1562
+							max_width  	1569
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -9104,7 +9104,7 @@
 						    quidu      	"515DC97B03BE"
 						    compartment 	(object Compartment
 							Parent_View 	@280
-							location   	(1188, 8183)
+							location   	(1184, 8183)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9117,7 +9117,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1562
+							max_width  	1569
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9166,7 +9166,7 @@
 							location   	(2329, 6802)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1562
+							max_width  	1569
 							justify    	0
 							label      	"    ")
 						    icon       	"Business Entity"
@@ -9176,7 +9176,7 @@
 						    quidu      	"515DC9CD0198"
 						    compartment 	(object Compartment
 							Parent_View 	@284
-							location   	(1547, 6843)
+							location   	(1543, 6843)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9189,7 +9189,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1562
+							max_width  	1569
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9228,7 +9228,7 @@
 							location   	(1737, 6906)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1565
+							max_width  	1572
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -9238,7 +9238,7 @@
 						    quidu      	"515DC9CF00FF"
 						    compartment 	(object Compartment
 							Parent_View 	@286
-							location   	(953, 6947)
+							location   	(950, 6947)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9251,7 +9251,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1565
+							max_width  	1572
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9286,7 +9286,7 @@
 							location   	(1094, 6907)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1569
+							max_width  	1575
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -9296,7 +9296,7 @@
 						    quidu      	"515DC9D500FA"
 						    compartment 	(object Compartment
 							Parent_View 	@288
-							location   	(308, 6948)
+							location   	(305, 6948)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9309,7 +9309,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1569
+							max_width  	1575
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Finalizado]"))
@@ -9344,7 +9344,7 @@
 							location   	(4166, 3299)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1579
+							max_width  	1584
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -9354,7 +9354,7 @@
 						    quidu      	"515690EA018A"
 						    compartment 	(object Compartment
 							Parent_View 	@290
-							location   	(3375, 3340)
+							location   	(3373, 3340)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9367,7 +9367,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1579
+							max_width  	1584
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9409,7 +9409,7 @@
 							location   	(4304, 1975)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -9419,7 +9419,7 @@
 						    quidu      	"5156915403C1"
 						    compartment 	(object Compartment
 							Parent_View 	@293
-							location   	(3492, 1940)
+							location   	(3490, 1940)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9432,7 +9432,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9539,7 +9539,7 @@
 							location   	(4048, 4624)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -9576,7 +9576,7 @@
 							location   	(4614, 2361)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1587
+							max_width  	1592
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -9586,7 +9586,7 @@
 						    quidu      	"515D0D0E03AD"
 						    compartment 	(object Compartment
 							Parent_View 	@301
-							location   	(3819, 2402)
+							location   	(3817, 2402)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9599,7 +9599,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1587
+							max_width  	1592
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Ordenado]"))
@@ -9641,7 +9641,7 @@
 							location   	(4280, 3726)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1590
+							max_width  	1594
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -9651,7 +9651,7 @@
 						    quidu      	"515D168E03CA"
 						    compartment 	(object Compartment
 							Parent_View 	@304
-							location   	(3484, 3767)
+							location   	(3482, 3767)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9664,7 +9664,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1590
+							max_width  	1594
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Ajustado]"))
@@ -9713,7 +9713,7 @@
 							location   	(4545, 2981)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1592
+							max_width  	1597
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -9723,7 +9723,7 @@
 						    quidu      	"515D181301A2"
 						    compartment 	(object Compartment
 							Parent_View 	@308
-							location   	(3748, 3022)
+							location   	(3745, 3022)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9736,7 +9736,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1592
+							max_width  	1597
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Finalizado]"))
@@ -9771,7 +9771,7 @@
 							location   	(2103, 7540)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1579
+							max_width  	1584
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -9781,7 +9781,7 @@
 						    quidu      	"515DC9D1007F"
 						    compartment 	(object Compartment
 							Parent_View 	@310
-							location   	(1312, 7581)
+							location   	(1310, 7581)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9794,7 +9794,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1579
+							max_width  	1584
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9829,7 +9829,7 @@
 							location   	(6155, 4212)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -9839,7 +9839,7 @@
 						    quidu      	"51574ADD005C"
 						    compartment 	(object Compartment
 							Parent_View 	@312
-							location   	(5343, 4177)
+							location   	(5341, 4177)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9852,7 +9852,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -9887,7 +9887,7 @@
 							location   	(6155, 4688)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1594
+							max_width  	1601
 							justify    	0
 							label      	"    ")
 						    icon       	"Business Entity"
@@ -9897,7 +9897,7 @@
 						    quidu      	"515D256601AB"
 						    compartment 	(object Compartment
 							Parent_View 	@314
-							location   	(5357, 4729)
+							location   	(5353, 4729)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9910,7 +9910,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1594
+							max_width  	1601
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Muestreado]"))
@@ -9952,7 +9952,7 @@
 							location   	(6155, 5150)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1597
+							max_width  	1604
 							justify    	0
 							label      	"     ")
 						    icon       	"Business Entity"
@@ -9962,7 +9962,7 @@
 						    quidu      	"515D265700E1"
 						    compartment 	(object Compartment
 							Parent_View 	@317
-							location   	(5355, 5191)
+							location   	(5352, 5191)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -9975,7 +9975,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1597
+							max_width  	1604
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Finalizado]"))
@@ -10010,7 +10010,7 @@
 							location   	(8066, 6066)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -10020,7 +10020,7 @@
 						    quidu      	"5156932102A4"
 						    compartment 	(object Compartment
 							Parent_View 	@319
-							location   	(7254, 6031)
+							location   	(7252, 6031)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10033,7 +10033,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -10075,7 +10075,7 @@
 							location   	(8146, 6662)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -10085,7 +10085,7 @@
 						    quidu      	"51574D4203BC"
 						    compartment 	(object Compartment
 							Parent_View 	@322
-							location   	(7334, 6627)
+							location   	(7332, 6627)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10098,7 +10098,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -10140,7 +10140,7 @@
 							location   	(7722, 6974)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -10150,7 +10150,7 @@
 						    quidu      	"51574D550258"
 						    compartment 	(object Compartment
 							Parent_View 	@325
-							location   	(6910, 6939)
+							location   	(6908, 6939)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10163,7 +10163,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -10198,7 +10198,7 @@
 							location   	(6787, 6988)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"")
 						    icon       	"Business Entity"
@@ -10208,7 +10208,7 @@
 						    quidu      	"51574D690145"
 						    compartment 	(object Compartment
 							Parent_View 	@327
-							location   	(5975, 6953)
+							location   	(5973, 6953)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10221,7 +10221,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -10256,7 +10256,7 @@
 							location   	(8423, 6349)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1614
+							max_width  	1619
 							justify    	0
 							label      	"      ")
 						    icon       	"Business Entity"
@@ -10266,7 +10266,7 @@
 						    quidu      	"515DA891027A"
 						    compartment 	(object Compartment
 							Parent_View 	@329
-							location   	(7615, 6390)
+							location   	(7612, 6390)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10279,7 +10279,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1614
+							max_width  	1619
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Finalizado]"))
@@ -10314,7 +10314,7 @@
 							location   	(8287, 5704)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1619
+							max_width  	1624
 							justify    	0
 							label      	"  ")
 						    icon       	"Business Entity"
@@ -10324,7 +10324,7 @@
 						    quidu      	"5162B1690266"
 						    compartment 	(object Compartment
 							Parent_View 	@331
-							location   	(7476, 5745)
+							location   	(7474, 5745)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10337,7 +10337,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1619
+							max_width  	1624
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Creado]"))
@@ -10379,7 +10379,7 @@
 							location   	(6833, 6191)
 							anchor_loc 	1
 							nlines     	2
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							label      	"   ")
 						    icon       	"Business Entity"
@@ -10389,7 +10389,7 @@
 						    quidu      	"5162B194021C"
 						    compartment 	(object Compartment
 							Parent_View 	@334
-							location   	(6021, 6232)
+							location   	(6019, 6232)
 							font       	(object Font
 							    size       	10
 							    face       	"Arial"
@@ -10402,7 +10402,7 @@
 							icon_style 	"Icon"
 							anchor     	2
 							nlines     	1
-							max_width  	1622
+							max_width  	1626
 							justify    	0
 							compartmentItems 	(list Compartment
 							    "[Finalizado]"))
@@ -15822,7 +15822,7 @@
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$310" @627
-					location   	(825, 2005)
+					location   	(714, 1974)
 					font       	(object Font
 					    size       	10
 					    face       	"Arial"
@@ -15838,25 +15838,25 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$311" @628
 						Parent_View 	@627
-						location   	(489, 1015)
+						location   	(378, 984)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"51882CD203B5"
 						client     	@627
 						supplier   	@619
+						vertices   	(list Points
+						    (714, 1974)
+						    (765, 2005)
+						    (1227, 2005))
 						line_style 	0)
 					    (object RoleView "$UNNAMED$312" @629
 						Parent_View 	@627
-						location   	(489, 1015)
+						location   	(378, 984)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"51882CD203B7"
 						client     	@627
 						supplier   	@626
-						vertices   	(list Points
-						    (825, 2005)
-						    (765, 2005)
-						    (333, 1742))
 						line_style 	0)))
 				    (object AssociationViewNew "$UNNAMED$319" @630
 					location   	(461, 2574)
@@ -15893,7 +15893,7 @@
 						vertices   	(list Points
 						    (461, 2574)
 						    (278, 2574)
-						    (276, 1895))
+						    (276, 1965))
 						line_style 	0)))
 				    (object AssociationViewNew "$UNNAMED$322" @633
 					location   	(326, 806)
@@ -16000,7 +16000,7 @@
 						vertices   	(list Points
 						    (756, 2296)
 						    (675, 2296)
-						    (362, 1838))
+						    (449, 1965))
 						line_style 	0)))
 				    (object AssociationViewNew "$UNNAMED$331" @642
 					location   	(647, 1133)
@@ -16153,7 +16153,7 @@
 					annotation 	8
 					autoResize 	TRUE)
 				    (object AssociationViewNew "$UNNAMED$307" @651
-					location   	(648, 229)
+					location   	(647, 229)
 					font       	(object Font
 					    size       	10
 					    face       	"Arial"
@@ -16169,7 +16169,7 @@
 					roleview_list 	(list RoleViews
 					    (object RoleView "$UNNAMED$308" @652
 						Parent_View 	@651
-						location   	(325, -80)
+						location   	(324, -80)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"51882C730353"
@@ -16178,7 +16178,7 @@
 						line_style 	0)
 					    (object RoleView "$UNNAMED$309" @653
 						Parent_View 	@651
-						location   	(325, -80)
+						location   	(324, -80)
 						stereotype 	TRUE
 						line_color 	3342489
 						quidu      	"51882C730363"
@@ -18055,7 +18055,39 @@
 		quid       	"518BE36C0176"
 		stereotype 	"Business Analysis Model"
 		exportControl 	"Public"
-		logical_models 	(list unit_reference_list)
+		logical_models 	(list unit_reference_list
+		    (object Class "Tipo_Pregunta"
+			quid       	"518C0DEC02AF")
+		    (object Class "Pregunta"
+			quid       	"518C0E37008B")
+		    (object Class "Categoría"
+			quid       	"518C0E4903D7")
+		    (object Class "Opción"
+			quid       	"518C0E52008B")
+		    (object Class "ReglasPregunta"
+			quid       	"518C0ED7029D")
+		    (object Class "ReglasConsistencia"
+			quid       	"518C0F0E0338")
+		    (object Class "DetalleConsistencia"
+			quid       	"518C0FA00346")
+		    (object Class "Error"
+			quid       	"518C0FAE0161")
+		    (object Class "CategoriaError"
+			quid       	"518C10600239")
+		    (object Class "PersonalOperativo"
+			quid       	"518C110D019A")
+		    (object Class "Encuesta"
+			quid       	"518C1131009F")
+		    (object Class "Cuestionario"
+			quid       	"518C11370310")
+		    (object Class "Ruta"
+			quid       	"518C11AA0149")
+		    (object Class "Marco"
+			quid       	"518C11B501D5")
+		    (object Class "DetalleMarco"
+			quid       	"518C11BE02A0")
+		    (object Class "Ubigeo"
+			quid       	"518C131F021C"))
 		logical_presentations 	(list unit_reference_list
 		    (object ClassDiagram "Modelo Conceptual"
 			quid       	"518BE3A00020"
@@ -18063,9 +18095,489 @@
 			zoom       	100
 			max_height 	28350
 			max_width  	21600
-			origin_x   	0
+			origin_x   	1644
 			origin_y   	0
-			items      	(list diagram_item_list)))))
+			items      	(list diagram_item_list
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Tipo_Pregunta" @748
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1121, 482)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@748
+				    location   	(943, 416)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	357
+				    justify    	0
+				    label      	"Tipo_Pregunta")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0DEC02AF"
+				width      	375
+				height     	156
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Pregunta" @749
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1481, 788)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@749
+				    location   	(1358, 737)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	246
+				    justify    	0
+				    label      	"Pregunta")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0E37008B"
+				width      	264
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Categoría" @750
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1802, 469)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@750
+				    location   	(1674, 418)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	256
+				    justify    	0
+				    label      	"Categoría")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0E4903D7"
+				width      	274
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Opción" @751
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1498, 1113)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@751
+				    location   	(1399, 1062)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	198
+				    justify    	0
+				    label      	"Opción")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0E52008B"
+				width      	216
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::ReglasPregunta" @752
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1915, 1416)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@752
+				    location   	(1731, 1335)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	369
+				    justify    	0
+				    label      	"ReglasPregunta")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0ED7029D"
+				width      	387
+				height     	187
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::ReglasConsistencia" @753
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1087, 1416)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@753
+				    location   	(896, 1338)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	382
+				    justify    	0
+				    label      	"ReglasConsistencia")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0F0E0338"
+				width      	400
+				height     	181
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::DetalleConsistencia" @754
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1087, 1763)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@754
+				    location   	(906, 1679)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	363
+				    justify    	0
+				    label      	"DetalleConsistencia")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0FA00346"
+				width      	381
+				height     	193
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Error" @755
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1931, 1735)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@755
+				    location   	(1835, 1684)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	192
+				    justify    	0
+				    label      	"Error")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C0FAE0161"
+				width      	210
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::CategoriaError" @756
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(1935, 2001)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@756
+				    location   	(1764, 1950)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	342
+				    justify    	0
+				    label      	"CategoriaError")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C10600239"
+				width      	360
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::PersonalOperativo" @757
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(2687, 493)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@757
+				    location   	(2566, 417)
+				    fill_color 	13434879
+				    nlines     	2
+				    max_width  	242
+				    justify    	0
+				    label      	"PersonalOperativo")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C110D019A"
+				width      	260
+				height     	176
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Encuesta" @758
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(378, 493)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@758
+				    location   	(249, 442)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	258
+				    justify    	0
+				    label      	"Encuesta")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C1131009F"
+				width      	276
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Cuestionario" @759
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(378, 940)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@759
+				    location   	(224, 889)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	308
+				    justify    	0
+				    label      	"Cuestionario")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C11370310"
+				width      	326
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Ruta" @760
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(2924, 962)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@760
+				    location   	(2828, 911)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	192
+				    justify    	0
+				    label      	"Ruta")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C11AA0149"
+				width      	210
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Marco" @761
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(2491, 949)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@761
+				    location   	(2395, 898)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	192
+				    justify    	0
+				    label      	"Marco")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C11B501D5"
+				width      	210
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::DetalleMarco" @762
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(2545, 1318)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@762
+				    location   	(2383, 1267)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	324
+				    justify    	0
+				    label      	"DetalleMarco")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C11BE02A0"
+				width      	342
+				height     	126
+				annotation 	8
+				autoResize 	TRUE)
+			    (object ClassView "Class" "Logical View::Modelo de Análisis del negocio::Ubigeo" @763
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(3374, 478)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@763
+				    location   	(3277, 427)
+				    fill_color 	13434879
+				    nlines     	1
+				    max_width  	194
+				    justify    	0
+				    label      	"Ubigeo")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"518C131F021C"
+				width      	212
+				height     	126
+				annotation 	8
+				autoResize 	TRUE))))))
 	logical_presentations 	(list unit_reference_list
 	    (object ClassDiagram "Main"
 		quid       	"514B59DE01FA"
@@ -18076,7 +18588,7 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list
-		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo" @748
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN001_Realizar_Planificacion_operacion_campo" @764
 			location   	(525, 478)
 			font       	(object Font
 			    size       	10
@@ -18088,7 +18600,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@748
+			    Parent_View 	@764
 			    location   	(524, 653)
 			    anchor_loc 	1
 			    nlines     	2
@@ -18101,7 +18613,7 @@
 			fill_color 	13434879
 			quidu      	"514BBE8401AC"
 			width      	306)
-		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos" @749
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN002_Realizar_Procesamiento_datos" @765
 			location   	(497, 997)
 			font       	(object Font
 			    size       	10
@@ -18113,7 +18625,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@749
+			    Parent_View 	@765
 			    location   	(496, 1172)
 			    anchor_loc 	1
 			    nlines     	2
@@ -18126,7 +18638,7 @@
 			fill_color 	13434879
 			quidu      	"514BBDB9016A"
 			width      	306)
-		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo" @750
+		    (object UseCaseView "Use Case View::Modelo de Casos de uso del negocio::Casos de uso del negocio::CUN003_Realizar_Monitoreo_operacion_campo" @766
 			location   	(528, 1500)
 			font       	(object Font
 			    size       	10
@@ -18138,7 +18650,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@750
+			    Parent_View 	@766
 			    location   	(527, 1675)
 			    anchor_loc 	1
 			    nlines     	2
@@ -18151,7 +18663,7 @@
 			fill_color 	13434879
 			quidu      	"514BBDCD02E1"
 			width      	306)
-		    (object UseCaseView "Logical View::RCUN001_Realizar_Planificación_operación_campo" @751
+		    (object UseCaseView "Logical View::RCUN001_Realizar_Planificación_operación_campo" @767
 			location   	(1652, 472)
 			font       	(object Font
 			    size       	10
@@ -18163,7 +18675,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@751
+			    Parent_View 	@767
 			    location   	(1652, 613)
 			    anchor_loc 	1
 			    nlines     	2
@@ -18175,7 +18687,7 @@
 			line_color 	3342489
 			fill_color 	16777088
 			quidu      	"51548F8A0242")
-		    (object UseCaseView "Logical View::RCUN002_Realizar_Procesamiento_datos" @752
+		    (object UseCaseView "Logical View::RCUN002_Realizar_Procesamiento_datos" @768
 			location   	(1668, 1003)
 			font       	(object Font
 			    size       	10
@@ -18187,7 +18699,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@752
+			    Parent_View 	@768
 			    location   	(1668, 1144)
 			    anchor_loc 	1
 			    nlines     	2
@@ -18199,7 +18711,7 @@
 			line_color 	3342489
 			fill_color 	16777088
 			quidu      	"515490340159")
-		    (object UseCaseView "Logical View::RCUN003_Realizar_Monitoreo_operación_campo" @753
+		    (object UseCaseView "Logical View::RCUN003_Realizar_Monitoreo_operación_campo" @769
 			location   	(1645, 1500)
 			font       	(object Font
 			    size       	10
@@ -18211,7 +18723,7 @@
 			    color      	0
 			    default_color 	TRUE)
 			label      	(object ItemLabel
-			    Parent_View 	@753
+			    Parent_View 	@769
 			    location   	(1645, 1641)
 			    anchor_loc 	1
 			    nlines     	2
@@ -18223,26 +18735,26 @@
 			line_color 	3342489
 			fill_color 	16777088
 			quidu      	"515490820029")
-		    (object RealizeView "" @754
+		    (object RealizeView "" @770
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"5154919C002F"
-			client     	@751
-			supplier   	@748
+			client     	@767
+			supplier   	@764
 			line_style 	0)
-		    (object RealizeView "" @755
+		    (object RealizeView "" @771
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"515491A40348"
-			client     	@752
-			supplier   	@749
+			client     	@768
+			supplier   	@765
 			line_style 	0)
-		    (object RealizeView "" @756
+		    (object RealizeView "" @772
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"515491AD0238"
-			client     	@753
-			supplier   	@750
+			client     	@769
+			supplier   	@766
 			line_style 	0)))))
     root_subsystem 	(object SubSystem "Component View"
 	quid       	"514B59DE00D2"
