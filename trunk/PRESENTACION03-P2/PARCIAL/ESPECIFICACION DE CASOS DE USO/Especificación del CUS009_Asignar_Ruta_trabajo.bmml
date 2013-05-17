@@ -1,0 +1,282 @@
+<mockup version="1.0" skin="sketch" measuredW="1333" measuredH="966">
+  <controls>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="997" y="179" w="-1" h="-1" measuredW="219" measuredH="25" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16711680</color>
+        <bold>true</bold>
+        <text>Datos%20actualizados%20correctamente</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="140" w="162" h="-1" measuredW="79" measuredH="29" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="50" y="147" w="-1" h="-1" measuredW="62" measuredH="25" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Encuesta</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Link" x="478" y="179" w="-1" h="-1" measuredW="157" measuredH="25" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Agregar%20Marco%20muestral</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="693" y="442" w="630" h="514" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Captura%20m%F3vil%20y%20monitoreo%20de%20procesos%20de%20campo</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="899" y="543" w="-1" h="-1" measuredW="235" measuredH="26" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8388608</color>
+        <size>14</size>
+        <text>Mantenimiento%20de%20Marco%20muestral</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::FieldSet" x="50" y="646" w="252" h="106" measuredW="200" measuredH="170" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ubigeo</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::RadioButton" x="62" y="671" w="-1" h="-1" measuredW="73" measuredH="18" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nacional</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="1" w="728" h="426" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Captura%20m%F3vil%20y%20monitoreo%20de%20procesos%20de%20campo</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="51" y="115" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::RadioButton" x="417" y="667" w="86" h="22" measuredW="90" measuredH="18" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sin%20asignar</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::RadioButton" x="417" y="690" w="65" h="24" measuredW="69" measuredH="18" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vigente</text>
+        <state>disabled</state>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="173" w="162" h="-1" measuredW="79" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="726" y="614" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="726" y="647" w="-1" h="-1" measuredW="40" measuredH="25" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cant.</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::TextInput" x="796" y="611" w="455" h="-1" measuredW="156" measuredH="29" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microempresas%20textiles</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::DataGrid" x="62" y="250" w="673" h="142" measuredW="672" measuredH="148" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%2C%20Encuesta%2C%20A%F1o%2C%20Cant.%2C%20Estado%0AViviendas%20particulares%2C%20ENAHO%2C%202012%2C%201%27000000.00%2C%20Vigente%2C%20%5BActualizar%5D%2C%20%5BEliminar%5D%0AClinicas%2C%20ENESA%2C%202011%2C%20500000.00%2C%20%20No%20vigente%2C%20%5BActualizar%5D%2C%20%5BEliminar%5D%0APersonas%20con%20discapacidad%2C%20ENEDIS%2C%202012%2C%20350000.00%2C%20Vigente%2C%20%5BActualizar%5D%2C%20%5BEliminar%5D%0AIngenieros%20titulados%2C%20No%20asignado%2C%20S/N%2C%20450000.00%2C%20Sin%20asignar%2C%20%5BActualizar%5D%2C%20%5BEliminar%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="230" y="211" w="-1" h="-1" measuredW="93" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar</text>
+        <icon>SearchIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="349" y="211" w="-1" h="-1" measuredW="105" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+        <icon>CircledXIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="24" y="449" w="630" h="417" measuredW="450" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Captura%20m%F3vil%20y%20monitoreo%20de%20procesos%20de%20campo</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="50" y="580" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::RadioButton" x="1037" y="733" w="65" h="24" measuredW="69" measuredH="18" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vigente</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::RadioButton" x="1037" y="759" w="85" h="21" measuredW="91" measuredH="18" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20Vigente</text>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="1005" y="646" w="-1" h="-1" measuredW="62" measuredH="25" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Encuesta</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TextInput" x="798" y="645" w="162" h="-1" measuredW="97" measuredH="29" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%27500000.00</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::RadioButton" x="62" y="691" w="100" h="22" measuredW="101" measuredH="18" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lima%20y%20Callao</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::RadioButton" x="62" y="713" w="174" h="24" measuredW="181" measuredH="18" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seleccionar%20Departamento</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="108" w="426" h="-1" measuredW="79" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="51" y="179" w="-1" h="-1" measuredW="72" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%F1o%20Marco</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="50" y="613" w="-1" h="-1" measuredW="40" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cant.</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::TextInput" x="1070" y="645" w="162" h="-1" measuredW="39" measuredH="29" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>EEA</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::RadioButton" x="735" y="712" w="212" h="20" measuredW="220" measuredH="18" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Departamento%28s%29%20seleccionado%28s%29</text>
+        <state>disabledSelected</state>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::FieldSet" x="731" y="685" w="229" h="181" measuredW="200" measuredH="170" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ubigeo</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="152" y="577" w="455" h="-1" measuredW="156" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microempresas%20textiles</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::TextInput" x="152" y="611" w="162" h="-1" measuredW="97" measuredH="29" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%27500000.00</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::RadioButton" x="1037" y="710" w="86" h="22" measuredW="90" measuredH="18" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sin%20asignar</text>
+        <state>disabled</state>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="794" y="578" w="162" h="-1" measuredW="114" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MARC20120001</text>
+        <state>disabled</state>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::RadioButton" x="417" y="716" w="85" h="21" measuredW="91" measuredH="18" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20Vigente</text>
+        <state>disabled</state>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Alert" x="971" y="243" w="-1" h="-1" measuredW="200" measuredH="145" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mensaje%0AEsta%20seguro%28a%29%20de%20actualizar%20registro%0ASi%2C%20No</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Button" x="878" y="879" w="119" h="-1" measuredW="95" measuredH="32" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grabar</text>
+        <state>focused</state>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Button" x="1039" y="879" w="99" h="-1" measuredW="105" measuredH="32" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+        <icon>CircledXIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::List" x="747" y="740" w="160" h="113" measuredW="100" measuredH="126" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+        <text>Tumbes%0APiura%0ATrujillo%0ALambayeque</text>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::FieldSet" x="1022" y="689" w="184" h="106" measuredW="200" measuredH="170" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Estado</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="213" y="80" w="-1" h="-1" measuredW="235" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8388608</color>
+        <size>14</size>
+        <text>Mantenimiento%20de%20Marco%20muestral</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="236" y="781" w="119" h="-1" measuredW="95" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grabar</text>
+        <state>focused</state>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Button" x="391" y="781" w="99" h="-1" measuredW="105" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+        <icon>CircledXIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="230" y="534" w="-1" h="-1" measuredW="235" measuredH="26" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8388608</color>
+        <size>14</size>
+        <text>Mantenimiento%20de%20Marco%20muestral</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="63" y="234" w="-1" h="-1" measuredW="95" measuredH="20" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>128</color>
+        <size>10</size>
+        <text>Marcos%20muestrales</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="402" y="646" w="184" h="106" measuredW="200" measuredH="170" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Estado</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="726" y="580" w="-1" h="-1" measuredW="44" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>C%F3digo</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
