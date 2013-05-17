@@ -298,7 +298,7 @@
         <text>Lima</text>
       </controlProperties>
     </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::CheckBox" x="869" y="832" w="-1" h="-1" measuredW="61" measuredH="18" zOrder="59" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::CheckBox" x="869" y="832" w="-1" h="-1" measuredW="60" measuredH="18" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Callao</text>
       </controlProperties>
@@ -332,24 +332,24 @@
         <text>Datos%20agregados%20correctamente</text>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="412" y="689" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="65" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="412" y="689" w="-1" h="-1" measuredW="36" measuredH="25" zOrder="65" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>T.%20Ubigeo</text>
+        <text>Area</text>
       </controlProperties>
     </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::ComboBox" x="483" y="690" w="-1" h="-1" measuredW="77" measuredH="72" zOrder="66" locked="false" isInGroup="-1">
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::ComboBox" x="461" y="690" w="122" h="-1" measuredW="77" measuredH="72" zOrder="66" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Urbano%0ARural%0ATodos</text>
+        <text>Urbano%0ARural%0ARural-Urbano</text>
       </controlProperties>
     </control>
-    <control controlID="120" controlTypeID="com.balsamiq.mockups::ComboBox" x="1186" y="705" w="-1" h="-1" measuredW="77" measuredH="25" zOrder="67" locked="false" isInGroup="-1">
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::ComboBox" x="1158" y="705" w="90" h="-1" measuredW="77" measuredH="25" zOrder="67" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Urbano</text>
       </controlProperties>
     </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="1111" y="705" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="68" locked="false" isInGroup="-1">
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="1111" y="705" w="-1" h="-1" measuredW="36" measuredH="25" zOrder="68" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>T.%20Ubigeo</text>
+        <text>Area</text>
       </controlProperties>
     </control>
   </controls>
