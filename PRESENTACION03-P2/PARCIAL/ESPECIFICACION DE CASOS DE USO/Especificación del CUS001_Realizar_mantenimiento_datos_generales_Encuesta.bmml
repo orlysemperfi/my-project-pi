@@ -67,7 +67,7 @@
         <text>Encuesta%20Nacional%20de%20Hogares</text>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="410" y="712" w="102" h="44" measuredW="200" measuredH="170" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="414" y="779" w="102" h="44" measuredW="200" measuredH="170" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Estado</text>
       </controlProperties>
@@ -128,7 +128,7 @@
         <text>Datos%20actualizados%20correctamente</text>
       </controlProperties>
     </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::CheckBox" x="425" y="725" w="-1" h="-1" measuredW="73" measuredH="18" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::CheckBox" x="428" y="796" w="-1" h="-1" measuredW="73" measuredH="18" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Vigente</text>
       </controlProperties>
@@ -184,7 +184,7 @@
         <text>Encuesta%20Nacional%20de%20Hogares</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::FieldSet" x="1107" y="729" w="102" h="44" measuredW="200" measuredH="170" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::FieldSet" x="1122" y="795" w="102" h="44" measuredW="200" measuredH="170" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Estado</text>
       </controlProperties>
@@ -206,7 +206,7 @@
         <text>Social</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::CheckBox" x="1122" y="742" w="-1" h="-1" measuredW="73" measuredH="18" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::CheckBox" x="1130" y="815" w="-1" h="-1" measuredW="73" measuredH="18" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Vigente</text>
         <state>selected</state>
@@ -281,7 +281,7 @@
         <text>Marco</text>
       </controlProperties>
     </control>
-    <control controlID="105" controlTypeID="com.balsamiq.mockups::FieldSet" x="790" y="728" w="286" h="192" measuredW="200" measuredH="170" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::FieldSet" x="790" y="728" w="286" h="192" measuredW="200" measuredH="170" zOrder="54" locked="true" isInGroup="-1">
       <controlProperties>
         <text>Marco</text>
       </controlProperties>
@@ -330,6 +330,26 @@
         <color>16711680</color>
         <bold>true</bold>
         <text>Datos%20agregados%20correctamente</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="412" y="689" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>T.%20Ubigeo</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::ComboBox" x="483" y="690" w="-1" h="-1" measuredW="77" measuredH="72" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Urbano%0ARural%0ATodos</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::ComboBox" x="1186" y="705" w="-1" h="-1" measuredW="77" measuredH="25" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Urbano</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="1111" y="705" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>T.%20Ubigeo</text>
       </controlProperties>
     </control>
   </controls>
