@@ -117,9 +117,9 @@
         <state>up</state>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::DataGrid" x="57" y="283" w="618" h="149" measuredW="428" measuredH="145" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::DataGrid" x="57" y="283" w="618" h="149" measuredW="414" measuredH="115" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Ruta%2C%20Descripci%F3n%2C%20Total%2C%20Estado%20Ruta%2C%20%0A004%20-1-%20S/%20900%2C%20Centro%20minero%20%20%2C%2060%2C%20Pendiente%2C%20%20%5BAsignar%5D%0A003-1-S/1050%2C%20Mantaro%2C%2078%2C%20En%20Proceso%2C%20%20%5BReasignar%5D%0A003-2-S/1000%2C%20%2C%2070%2C%20Terminado%2C%20%20%0A003-5-S/1200%2C%20%2C%2097%2C%20Terminado%2C</text>
+        <text>Ruta%2C%20Descripci%F3n%2C%20Total%2C%20Estado%20Ruta%2C%20%0A004%20-1-%20S/%20900%2C%20Centro%20minero%20%20%2C%2060%2C%20Pendiente%2C%20%20%5BAsignar%5D%0A003-2-S/1000%2C%20%2C%2070%2C%20Terminado%2C%20%20%0A003-5-S/1200%2C%20%2C%2097%2C%20Terminado%2C</text>
       </controlProperties>
     </control>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="287" y="243" w="-1" h="-1" measuredW="94" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
@@ -132,6 +132,11 @@
       <controlProperties>
         <text>Cancelar</text>
         <icon>CircledXIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="com.balsamiq.mockups::Label" x="770" y="1013" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Distrito</text>
       </controlProperties>
     </control>
     <control controlID="284" controlTypeID="com.balsamiq.mockups::ComboBox" x="863" y="956" w="128" h="-1" measuredW="67" measuredH="22" zOrder="111" locked="false" isInGroup="-1">
@@ -175,9 +180,9 @@
         <state>selected</state>
       </controlProperties>
     </control>
-    <control controlID="283" controlTypeID="com.balsamiq.mockups::Label" x="770" y="1013" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="110" locked="false" isInGroup="-1">
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::Label" x="762" y="899" w="-1" h="-1" measuredW="75" measuredH="22" zOrder="118" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Distrito</text>
+        <text>Programado</text>
       </controlProperties>
     </control>
     <control controlID="292" controlTypeID="com.balsamiq.mockups::Label" x="1000" y="903" w="-1" h="-1" measuredW="61" measuredH="22" zOrder="119" locked="false" isInGroup="-1">
@@ -246,11 +251,6 @@
         <state>disabledSelected</state>
       </controlProperties>
     </control>
-    <control controlID="291" controlTypeID="com.balsamiq.mockups::Label" x="762" y="899" w="-1" h="-1" measuredW="75" measuredH="22" zOrder="118" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Programado</text>
-      </controlProperties>
-    </control>
     <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="292" y="110" w="-1" h="-1" measuredW="205" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>8388608</color>
@@ -295,9 +295,9 @@
         <text>Estado</text>
       </controlProperties>
     </control>
-    <control controlID="108" controlTypeID="com.balsamiq.mockups::ComboBox" x="517" y="151" w="-1" h="-1" measuredW="97" measuredH="64" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::ComboBox" x="517" y="151" w="-1" h="-1" measuredW="97" measuredH="48" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Pendiente%0AEn%20Proceso%0ATerminado</text>
+        <text>Pendiente%0ATerminado</text>
       </controlProperties>
     </control>
     <control controlID="154" controlTypeID="com.balsamiq.mockups::Alert" x="468" y="1289" w="-1" h="-1" measuredW="200" measuredH="132" zOrder="15" locked="false" isInGroup="-1">
